@@ -1,5 +1,5 @@
 {
-  "grupos": {
+  "grupos_farmacologicos": {
     "Ésteres de colina de acción directa": [
       {
         "nombre": "Betanecol",
@@ -139,6 +139,28 @@
           "Euforia",
           "Alteración cerebral"
         ]
+      },
+      {
+        "nombre": "Muscarina",
+        "mecanismo_de_accion": [
+          "Agonista muscarínico",
+          "Amine cuaternaria",
+          "Receptores muscarínicos + Acetilcolina",
+          "Disminuye FC y PA por vasodilatación"
+        ],
+        "uso": ["No hay"],
+        "efectos_adversos": [
+          "Efectos colinérgicos exacerbados",
+          "Salivación",
+          "Lagrimeo",
+          "Náusea",
+          "Vómito",
+          "Diarrea",
+          "Alteraciones visuales",
+          "Colapso abdominal",
+          "Debilidad",
+          "Broncoespasmo, bradicardia, hipotensión y choque"
+        ]
       }
     ],
     "Alcaloides muscarínicos de acción sintética": [
@@ -160,7 +182,477 @@
           "Náuseas"
         ]
       }
+    ],
+    "Agonistas nicotínicos de acción directa": [
+      {
+        "nombre": "Nicotina",
+        "mecanismo_de_accion": [
+          "Agonista directo no selectivo N (Nn, Nm)",
+          "Activa neuronas posganglionares autónomas (sp y ssp) y placas terminales neuromusculares del músculo esquelético",
+          "Aumento de GI de manera aguda",
+          "Aumento de la PA",
+          "NN (ganglios autónomos, médula suprarrenal, neuronas del SNC)",
+          "NM (unión neuromuscular)",
+          "Amine terciaria, ingresa al SNC"
+        ],
+        "uso": [
+          "Dejar de fumar y evitar sx de abstinencia",
+          "Uso no méd: insecticida"
+        ],
+        "efectos_adversos": [
+          "Náusea, vómito, diarrea",
+          "Altas dosis: convulsiones",
+          "Riesgo GI de larga plazo y factor de riesgo CV"
+        ]
+      },
+      {
+        "nombre": "Vareniclina",
+        "mecanismo_de_accion": [
+          "Agonista parcial: alivia síntomas de abstinencia nicotínica y ansia de fumar",
+          "Antagonista: bloquea efectos de refuerzo del uso de nicotina"
+        ],
+        "uso": ["Uso exclusivo para dejar de fumar"],
+        "efectos_adversos": [
+          "Trastornos del sueño",
+          "Cefalea",
+          "Náusea",
+          "Estreñimiento",
+          "Flatulencia",
+          "Acidez",
+          "Alteración del sabor de boca"
+        ]
+      },
+      {
+        "nombre": "Lobelina",
+        "mecanismo_de_accion": [
+          "Agonista parcial nicotínico (menor acción que la nicotina)",
+          "Aumento de PA y actividad GI"
+        ],
+        "uso": ["Dejar de fumar"],
+        "efectos_adversos": [
+          "Mareo",
+          "Náuseas",
+          "Vómitos"
+        ]
+      },
+      {
+        "nombre": "Arecolina",
+        "mecanismo_de_accion": [
+          "Agonista parcial M3 y M5; receptores nicotínicos"
+        ],
+        "uso": [
+          "Retrasa deterioro cognitivo en Alzheimer",
+          "Antihelmíntico"
+        ],
+        "efectos_adversos": [
+          "Lagrimeo",
+          "Miosis",
+          "Salivación",
+          "Sudoración",
+          "Bradicardia",
+          "Emesis (náuseas/vómitos)",
+          "Letargia"
+        ]
+      }
+    ],
+    "Inhibidores de la colinesterasa de acción corta (alcohol)": [
+      {
+        "nombre": "Edrofonio",
+        "mecanismo_de_accion": [
+          "Alcohol - Inhibidor reversible de la AChE",
+          "Inhibe hidrólisis de ACh por unión competitiva a la AChE y amplifica las acciones de ACh",
+          "Aumenta act parasimpática y transmisión neuromuscular somática",
+          "No ingresa al SNC, Amine cuaternaria"
+        ],
+        "uso": [
+          "Dx y tto agudo de miastenia gravis (Prueba de Tensilon)",
+          "Arritmias",
+          "Íleo"
+        ],
+        "efectos_adversos": [
+          "Exceso parasimpaticomimético",
+          "Arritmia cardiaca",
+          "Taquicardia",
+          "Sudoración",
+          "Aumento de sudoración y salivación",
+          "Náuseas y vómitos",
+          "DUMBELLS"
+        ]
+      }
+    ],
+    "Inhibidores de la colinesterasa de acción intermedia (carbamatos)": [
+      {
+        "nombre": "Neostigmina",
+        "mecanismo_de_accion": [
+          "Inhibidor reversible de AChE, Agonista indirecto reversible",
+          "Inhibe la hidrólisis de ACh por unión competitiva a la AChE",
+          "Mayor efecto muscular: activa los colinoreceptores nicotínicos neuromusculares (NM)",
+          "Amine cuaternaria, no ingresa al SNC"
+        ],
+        "uso": [
+          "Miastenia gravis",
+          "Íleo postoperatorio y neurogénico",
+          "Retención urinaria"
+        ],
+        "efectos_adversos": [
+          "Trastornos de la acomodación visual",
+          "Miosis",
+          "Hipersecreción bronquial",
+          "Espasmo laríngeo",
+          "Broncoconstricción",
+          "Bradicardia",
+          "Arritmias cardiacas",
+          "Diarrea",
+          "Calambres abdominales",
+          "Urgencia urinaria",
+          "DUMBELLS"
+        ]
+      },
+      {
+        "nombre": "Piridostigmina",
+        "mecanismo_de_accion": [
+          "Inhibidor reversible de AChE, Agonista indirecto",
+          "Inhibe la hidrólisis de ACh por unión competitiva a la AChE",
+          "Acción prolongada 4-6 h",
+          "Amine cuaternaria",
+          "Receptor N más que M"
+        ],
+        "uso": ["Miastenia gravis"],
+        "efectos_adversos": [
+          "Trastornos de la acomodación visual",
+          "Miosis",
+          "Hipersecreción bronquial",
+          "Espasmo laríngeo",
+          "Broncoconstricción",
+          "Bradicardia",
+          "Arritmias cardiacas",
+          "Diarrea",
+          "Calambres abdominales",
+          "Urgencia urinaria",
+          "DUMBELLS"
+        ]
+      },
+      {
+        "nombre": "Fisostigmina (Eserina)",
+        "mecanismo_de_accion": [
+          "Inhibidor reversible de AChE, Agonista indirecto reversible",
+          "Inhibe la hidrólisis de ACh por unión competitiva a la AChE",
+          "Estimula Nm y Nn y M.",
+          "Aumenta motilidad intestinal y vejiga urinaria.",
+          "Amine terciaria, pasa al SNC."
+        ],
+        "uso": [
+          "Miastenia gravis",
+          "Íleo postoperatorio y neurogénico",
+          "Retención urinaria",
+          "Envenenamiento colinérgico: atropina, fenotiazinas y antidepresivos tricíclicos"
+        ],
+        "efectos_adversos": [
+          "Síntomas de Alzheimer leve a moderadamente grave.",
+          "Demencia leve a moderadamente grave con enf. de Parkinson"
+        ]
+      },
+      {
+        "nombre": "Rivastigmina",
+        "mecanismo_de_accion": [
+          "Facilita la neurotransmisión colinérgica",
+          "Ralentiza la degradación de ACh liberada por neuronas colinérgicas funcionalmente intactas."
+        ],
+        "uso": [
+          "Síntomas de Alzheimer leve a moderadamente grave.",
+          "Demencia leve a moderadamente grave con enf. de Parkinson"
+        ],
+        "efectos_adversos": [
+          "Náusea",
+          "Vómito",
+          "Diarrea",
+          "Anorexia",
+          "Confusión",
+          "Ansiedad",
+          "Depresión",
+          "Insomnio",
+          "Cefalea",
+          "Desmayo",
+          "Temblor"
+        ]
+      },
+      {
+        "nombre": "Donepezilo",
+        "mecanismo_de_accion": [
+          "Inhibidor específico y reversible de acetilcolinesterasas (cerebro), Agonista indirecto reversible",
+          "Liposoluble, ingresa al SNC"
+        ],
+        "uso": [
+          "Alzheimer (junto con tacrina, galantamina, rivastigmina)"
+        ],
+        "efectos_adversos": [
+          "Náusea",
+          "Vómito",
+          "Diarrea",
+          "Anorexia",
+          "Confusión e alucinaciones"
+        ]
+      }
+    ],
+    "Inhibidores de la acetilcolinesterasa de acción larga (organofosforados)": [
+      {
+        "nombre": "Ecotiofato",
+        "mecanismo_de_accion": [
+          "Inhibidor irreversible de la AChE, Agonista indirecto irreversible",
+          "Inhibe la hidrólisis de ACh por unión competitiva a la AChE, pero de manera lenta.",
+          "Actúa sobre receptores muscarínicos.",
+          "Amplifica acciones de acetilcolina, + A* parasimpática, transmisión neuromuscular somática."
+        ],
+        "uso": ["Se usó en el Glaucoma-OBSOLETO"],
+        "efectos_adversos": [
+          "Efecto tóxico en peces",
+          "Náusea",
+          "Vómito",
+          "Diarrea",
+          "Visión borrosa",
+          "Sudoración",
+          "Sialorrea",
+          "Debilidad muscular"
+        ]
+      },
+      {
+        "nombre": "Malatión",
+        "mecanismo_de_accion": [
+          "Inhibidor irreversible de la AChE, Agonista indirecto irreversible",
+          "Receptores muscarínicos"
+        ],
+        "uso": ["Insecticida, en algunas ocasiones: ectoparasiticida"],
+        "efectos_adversos": [
+          "Náusea",
+          "Vómito",
+          "Diarrea",
+          "Dolor abdominal",
+          "Visión borrosa",
+          "Sudoración",
+          "Sialorrea",
+          "Debilidad muscular"
+        ]
+      },
+      {
+        "nombre": "Paratión",
+        "mecanismo_de_accion": [
+          "Inhibidor irreversible de la AChE, Agonista indirecto irreversible"
+        ],
+        "uso": ["Insecticida"],
+        "efectos_adversos": [
+          "Efecto tóxico para ganado",
+          "Peligro: Pesticidas en frutas/vegetales"
+        ]
+      },
+      {
+        "nombre": "Isofluorato",
+        "mecanismo_de_accion": [
+          "Inhibidor irreversible de la AChE, Agonista indirecto irreversible"
+        ],
+        "uso": ["Glaucoma y Gas nervioso"],
+        "efectos_adversos": [
+          "Náusea",
+          "Vómito",
+          "Diarrea",
+          "Dolor abdominal",
+          "Visión borrosa",
+          "Sudoración",
+          "Sialorrea",
+          "Debilidad muscular"
+        ]
+      }
+    ],
+    "Anticolinérgicos": [
+      {
+        "nombre": "Escopolamina",
+        "mecanismo_de_accion": [
+          "Antagonista competitivo muscarínico",
+          "Mecanismo desconocido en SNC.",
+          "Mayor acción larga en SNC.",
+          "Dosis bajas: sedación",
+          "Dosis altas: euforia"
+        ],
+        "uso": [
+          "Prevención de la cinetosis (mareo de movimiento)",
+          "Náuseas y vómitos postoperatorios",
+          "Vértigo",
+          "Bloqueo de memoria a corto plazo"
+        ],
+        "efectos_adversos": [
+          "Taquicardia",
+          "Xerostomía (Boca seca)",
+          "Delirio"
+        ]
+      },
+      {
+        "nombre": "Diciclomina",
+        "mecanismo_de_accion": [
+          "Antagonista competitivo en los receptores M3",
+          "Reduce la actividad de la musculatura lisa y la secreción de intestino"
+        ],
+        "uso": [
+          "Síndrome de intestino irritable",
+          "Diarrea leve"
+        ],
+        "efectos_adversos": [
+          "Taquicardia",
+          "Confusión",
+          "Retención urinaria",
+          "Aumento de presión intraocular"
+        ]
+      },
+      {
+        "nombre": "Atropina (Alcaloide de Belladona)",
+        "mecanismo_de_accion": [
+          "Antagonista competitivo no selectivo muscarínico",
+          "Bloquea exceso muscarínico en glándulas exocrinas, corazón y m. liso.",
+          "Baja IP3 (inositol trifosfato), Inhibe ácido clorhídrico"
+        ],
+        "uso": [
+          "SNC y periférica:",
+          "Examen retinal (midriasis persistente (7-10d)) y cicloplejia.",
+          "Antídoto para envenenamiento colinérgico.",
+          "Antídoto para envenenamiento con insecticidas organofosforados.",
+          "Bloquea secreciones de vías respiratorias antes de cirugía",
+          "Reanimación cardiopulmonar",
+          "Intoxicación por hongos"
+        ],
+        "efectos_adversos": [
+          "Aumento PIO en glaucoma de ángulo cerrado",
+          "Xerostomía",
+          "Taquicardia",
+          "Rubor",
+          "Delirio"
+        ]
+      },
+      {
+        "nombre": "Ipratropio",
+        "mecanismo_de_accion": [
+          "Antagonista no selectivo competitivo M",
+          "Inhibe los reflejos mediados por el vago.",
+          "Previene el aumento intracelular causado por la interacción de la acetilcolina con los receptores muscarínicos en el músculo liso bronquial"
+        ],
+        "uso": [
+          "Previene los episodios agudos de broncoespasmo:",
+          "ASMA",
+          "EPOC"
+        ],
+        "efectos_adversos": [
+          "Tos",
+          "Xerostomía"
+        ]
+      },
+      {
+        "nombre": "Tropicamida",
+        "mecanismo_de_accion": [
+          "Antagonista competitivo no selectivo muscarínico",
+          "SNC y periférica"
+        ],
+        "uso": [
+          "Dosis bajas: Corazón:",
+          "Dosis bajas: bradicardia - bloquea M1.",
+          "Dosis altas: aumenta FC - M2.",
+          "Secreción: Bloquea secreciones y el sudor, aumenta la temp."
+        ],
+        "efectos_adversos": [
+          "SNC: inquietud, confusión, delirio",
+          "Dosis altas:",
+          "Aumento de PIO en glaucoma de ángulo cerrado"
+        ]
+      },
+      {
+        "nombre": "Otilonio",
+        "mecanismo_de_accion": [
+          "Antagonista muscarínico no selectivo",
+          "Amine cuaternaria con menos efectos en SNC"
+        ],
+        "uso": [
+          "Incontinencia urinaria",
+          "Urgencia/Vejiga hiperactiva",
+          "Espasmos postoperatorios"
+        ],
+        "efectos_adversos": [
+          "Xerostomía",
+          "Reducción de la sudoración"
+        ]
+      },
+      {
+        "nombre": "Trospio",
+        "mecanismo_de_accion": [
+          "Antagonista muscarínico no selectivo",
+          "Amine cuaternaria con menos efectos en SNC"
+        ],
+        "uso": [
+          "Incontinencia urinaria",
+          "Urgencia/Vejiga hiperactiva",
+          "Espasmos postoperatorios"
+        ],
+        "efectos_adversos": [
+          "Xerostomía",
+          "Reducción de la sudoración"
+        ]
+      }
+    ],
+    "Reactivador de la colinesterasa": [
+      {
+        "nombre": "Pralidoxima",
+        "mecanismo_de_accion": [
+          "Se une a organofosforados y rompe el enlace alquil fosfato-colinesterasa = restaurar la actividad de la acetilcolinesterasa",
+          "Muy alta afinidad por el átomo de fósforo pero no ingresa al SNC",
+          "Anula el bloqueo de la placa terminal del músculo estriado"
+        ],
+        "uso": [
+          "Antídoto en fase temprana (48h) de la intoxicación por organofosforados"
+        ],
+        "efectos_adversos": [
+          "Debilidad muscular"
+        ]
+      }
+    ],
+    "Bloqueadores ganglionares": [
+      {
+        "nombre": "Trimetafán (Camsilato)",
+        "mecanismo_de_accion": [
+          "Bloqueador ganglionar - Antagonista competitivo no despolarizante Nn",
+          "Amine cuaternaria sintética",
+          "Penetra barrera hematoencefálica y entra al SNC"
+        ],
+        "uso": [
+          "Tx a corto plazo de HT",
+          "OBSOLETO"
+        ],
+        "efectos_adversos": [
+          "Hipotensión",
+          "Xerostomía",
+          "Temblor",
+          "Fatiga"
+        ]
+      },
+      {
+        "nombre": "Mecamilamina",
+        "mecanismo_de_accion": [
+          "Bloqueador ganglionar - Antagonista competitivo no despolarizante Nn",
+          "Bloquea N centrales",
+          "Amine secundaria sintética/ penetra S.N.C"
+        ],
+        "uso": [
+          "Tx de HT moderadamente severa a severa",
+          "Antitabaco"
+        ],
+        "efectos_adversos": [
+          "Hipotensión",
+          "Xerostomía",
+          "Estreñimiento",
+          "Temblor",
+          "Fatiga",
+          "Sedación",
+          "Movimientos coreiformes",
+          "Convulsiones",
+          "Anorexia"
+        ]
+      }
     ]
   }
 }
+
 
