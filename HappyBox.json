@@ -1,0 +1,177 @@
+{
+  "fármacos": [
+    {
+      "nombre": "Betanecol",
+      "grupo": "Ésteres de colina de acción directa",
+      "mecanismo_de_accion": {
+        "tipo": "Agonista directo selectivo muscarínico (M1, M2, M3)",
+        "efectos": [
+          "Estimula la micción / Receptor parasimpático",
+          "Aumenta la contracción del músculo detrusor de la vejiga, relaja el esfínter y trígono vesical",
+          "Aumento de secreciones: sudoración y salivación",
+          "Contracción del músculo liso gastrointestinal",
+          "Amine cuaternaria",
+          "Efecto insignificante en los receptores nicotínicos"
+        ]
+      },
+      "uso": [
+        "Íleo (obstrucción intestinal)",
+        "Tratamiento de retención urinaria no obstructiva (R-U)",
+        "Vejiga neurogénica",
+        "Atonía vesical postoperatoria, postparto"
+      ],
+      "efectos_adversos": [
+        "Sudoración",
+        "Salivación (Sialorrea)",
+        "Flushing",
+        "Náusea",
+        "Diarrea",
+        "Baja presión arterial",
+        "Urgencia urinaria",
+        "Broncoespasmo",
+        "Calambres abdominales"
+      ]
+    },
+    {
+      "nombre": "Carbacol",
+      "grupo": "Ésteres de colina de acción directa",
+      "mecanismo_de_accion": {
+        "tipo": "Agonista directo no selectivo M y N",
+        "efectos": [
+          "Miosis (m.ciliar) y espasmo de acomodación",
+          "No se inactiva por Ach-asa",
+          "Activa estimulación ganglionar y luego deprime",
+          "Libera epinefrina por su acción N. a nivel renal",
+          "Amine cuaternaria"
+        ]
+      },
+      "uso": [
+        "Tratamiento de Glaucoma - como agente miótico, uso tópico",
+        "Reducción de Presión Intraocular"
+      ],
+      "efectos_adversos": [
+        "Efectos adversos escasos por su uso casi exclusivo tópico",
+        "Visión borrosa y discapacidad visual",
+        "Desprendimiento de retina",
+        "Irritación ocular",
+        "Salivación",
+        "Flushing",
+        "Diaforesis (sudoración excesiva)",
+        "Aumento de PIO"
+      ]
+    },
+    {
+      "nombre": "Acetilcolina",
+      "grupo": "Ésteres de colina de acción directa",
+      "mecanismo_de_accion": {
+        "tipo": "Agonista directo no selectivo M y N",
+        "efectos": [
+          "Neurotransmisor fibras PSP y SP",
+          "Disminuye FC y PA por vasodilatación",
+          "Miosis",
+          "No penetra membranas celulares => baja solubilidad",
+          "Amine cuaternaria"
+        ]
+      },
+      "uso": [
+        "No hay: la Ach-asa lo degrada rápido y no selectivo: muchas acciones"
+      ],
+      "efectos_adversos": [
+        "Bradicardia",
+        "Hipotensión",
+        "Bloqueo aurículoventricular nodo AV",
+        "Sofocos",
+        "Disminución PA (hipotensión)",
+        "Visión borrosa (miosis)",
+        "Edema corneal",
+        "Disnea",
+        "F. parasimpaticomiméticos secundarios",
+        "Cefalea",
+        "Sudoración",
+        "Salivación",
+        "Irritación faríngea",
+        "Broncoconstricción"
+      ]
+    },
+    {
+      "nombre": "Metacolina",
+      "grupo": "Ésteres de colina de acción directa",
+      "mecanismo_de_accion": {
+        "tipo": "Agonista directo no selectivo M y débilmente N",
+        "efectos": [
+          "Ach-asa lo inactiva (débilmente) / menos que Ach",
+          "Constricción m. liso bronquial (M) (Broncoconstricción)",
+          "Amine cuaternaria"
+        ]
+      },
+      "uso": [
+        "Dx de Hiperreactividad bronquial en pacientes SIN asma aparente"
+      ],
+      "efectos_adversos": [
+        "Dx de Hiperreactividad bronquial en pacientes SIN asma aparente",
+        "Nauseas",
+        "Vómitos",
+        "Lagrimeo",
+        "Prurito",
+        "Pérdida de conexión",
+        "Calambres gastrointestinales",
+        "Sudoración",
+        "Salivación",
+        "Irritación faríngea",
+        "Broncoconstricción",
+        "Náuseas"
+      ]
+    },
+    {
+      "nombre": "Pilocarpina",
+      "grupo": "Alcaloides muscarínicos de acción directa",
+      "mecanismo_de_accion": {
+        "tipo": "Agonista parcial muscarínico",
+        "efectos": [
+          "Miosis rápida y contracción muscular ciliar (espasmo acomodación) => M3",
+          "Aumenta secreción de sudor, lágrimas y saliva",
+          "Es menos potente que la acetilcolina y sus derivados",
+          "Amine terciaria"
+        ]
+      },
+      "uso": [
+        "Glaucoma: ángulo cerrado y ángulo abierto",
+        "Síndrome de Sjögren (sx piel/cabeza/cuello): sequedad bucal",
+        "Emergencias: baja PIO",
+        "Pos Radioterapia en cabeza y cuello (sequedad bucal por inflamación y daño glándulas salivales => epine y salivación)",
+        "Antídoto por envenenamiento de atropina"
+      ],
+      "efectos_adversos": [
+        "Sx Sjögren: epine y salivación",
+        "Menor frecuencia: dolor, astenia, dispepsia, vómitos, temblores",
+        "Antídoto por envenenamiento de atropina",
+        "Antídoto por envenenamiento de atropina",
+        "Aumenta actividad sudoración",
+        "Aumenta frecuencia urinaria",
+        "Euforia",
+        "Alteración cerebral"
+      ]
+    },
+    {
+      "nombre": "Cevimelina",
+      "grupo": "Alcaloides muscarínicos de acción sintética",
+      "mecanismo_de_accion": {
+        "tipo": "Agonista muscarínico selectivo M3",
+        "efectos": [
+          "Alta afinidad M3 => glándulas lagrimales y salivales",
+          "Amine cuaternaria"
+        ]
+      },
+      "uso": [
+        "Sx Sjögren para xerostomía",
+        "Glaucoma",
+        "Aumenta presión intraocular"
+      ],
+      "efectos_adversos": [
+        "Entra al cerebro (SNC)",
+        "Aumenta presión intraocular",
+        "Náuseas"
+      ]
+    }
+  ]
+}
