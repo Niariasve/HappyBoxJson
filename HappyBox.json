@@ -3,17 +3,15 @@
     {
       "nombre": "Betanecol",
       "grupo": "Ésteres de colina de acción directa",
-      "mecanismo_de_accion": {
-        "tipo": "Agonista directo selectivo muscarínico (M1, M2, M3)",
-        "efectos": [
-          "Estimula la micción / Receptor parasimpático",
-          "Aumenta la contracción del músculo detrusor de la vejiga, relaja el esfínter y trígono vesical",
-          "Aumento de secreciones: sudoración y salivación",
-          "Contracción del músculo liso gastrointestinal",
-          "Amine cuaternaria",
-          "Efecto insignificante en los receptores nicotínicos"
-        ]
-      },
+      "mecanismo_de_accion": [
+        "Agonista directo selectivo muscarínico (M1, M2, M3)",
+        "Estimula la micción / Receptor parasimpático",
+        "Aumenta la contracción del músculo detrusor de la vejiga, relaja el esfínter y trígono vesical",
+        "Aumento de secreciones: sudoración y salivación",
+        "Contracción del músculo liso gastrointestinal",
+        "Amine cuaternaria",
+        "Efecto insignificante en los receptores nicotínicos"
+      ],
       "uso": [
         "Íleo (obstrucción intestinal)",
         "Tratamiento de retención urinaria no obstructiva (R-U)",
@@ -35,16 +33,14 @@
     {
       "nombre": "Carbacol",
       "grupo": "Ésteres de colina de acción directa",
-      "mecanismo_de_accion": {
-        "tipo": "Agonista directo no selectivo M y N",
-        "efectos": [
-          "Miosis (m.ciliar) y espasmo de acomodación",
-          "No se inactiva por Ach-asa",
-          "Activa estimulación ganglionar y luego deprime",
-          "Libera epinefrina por su acción N. a nivel renal",
-          "Amine cuaternaria"
-        ]
-      },
+      "mecanismo_de_accion": [
+        "Agonista directo no selectivo M y N",
+        "Miosis (m.ciliar) y espasmo de acomodación",
+        "No se inactiva por Ach-asa",
+        "Activa estimulación ganglionar y luego deprime",
+        "Libera epinefrina por su acción N. a nivel renal",
+        "Amine cuaternaria"
+      ],
       "uso": [
         "Tratamiento de Glaucoma - como agente miótico, uso tópico",
         "Reducción de Presión Intraocular"
@@ -63,16 +59,14 @@
     {
       "nombre": "Acetilcolina",
       "grupo": "Ésteres de colina de acción directa",
-      "mecanismo_de_accion": {
-        "tipo": "Agonista directo no selectivo M y N",
-        "efectos": [
-          "Neurotransmisor fibras PSP y SP",
-          "Disminuye FC y PA por vasodilatación",
-          "Miosis",
-          "No penetra membranas celulares => baja solubilidad",
-          "Amine cuaternaria"
-        ]
-      },
+      "mecanismo_de_accion": [
+        "Agonista directo no selectivo M y N",
+        "Neurotransmisor fibras PSP y SP",
+        "Disminuye FC y PA por vasodilatación",
+        "Miosis",
+        "No penetra membranas celulares => baja solubilidad",
+        "Amine cuaternaria"
+      ],
       "uso": [
         "No hay: la Ach-asa lo degrada rápido y no selectivo: muchas acciones"
       ],
@@ -96,20 +90,18 @@
     {
       "nombre": "Metacolina",
       "grupo": "Ésteres de colina de acción directa",
-      "mecanismo_de_accion": {
-        "tipo": "Agonista directo no selectivo M y débilmente N",
-        "efectos": [
-          "Ach-asa lo inactiva (débilmente) / menos que Ach",
-          "Constricción m. liso bronquial (M) (Broncoconstricción)",
-          "Amine cuaternaria"
-        ]
-      },
+      "mecanismo_de_accion": [
+        "Agonista directo no selectivo M y débilmente N",
+        "Ach-asa lo inactiva (débilmente) / menos que Ach",
+        "Constricción m. liso bronquial (M) (Broncoconstricción)",
+        "Amine cuaternaria"
+      ],
       "uso": [
         "Dx de Hiperreactividad bronquial en pacientes SIN asma aparente"
       ],
       "efectos_adversos": [
         "Dx de Hiperreactividad bronquial en pacientes SIN asma aparente",
-        "Nauseas",
+        "Náuseas",
         "Vómitos",
         "Lagrimeo",
         "Prurito",
@@ -125,15 +117,13 @@
     {
       "nombre": "Pilocarpina",
       "grupo": "Alcaloides muscarínicos de acción directa",
-      "mecanismo_de_accion": {
-        "tipo": "Agonista parcial muscarínico",
-        "efectos": [
-          "Miosis rápida y contracción muscular ciliar (espasmo acomodación) => M3",
-          "Aumenta secreción de sudor, lágrimas y saliva",
-          "Es menos potente que la acetilcolina y sus derivados",
-          "Amine terciaria"
-        ]
-      },
+      "mecanismo_de_accion": [
+        "Agonista parcial muscarínico",
+        "Miosis rápida y contracción muscular ciliar (espasmo acomodación) => M3",
+        "Aumenta secreción de sudor, lágrimas y saliva",
+        "Es menos potente que la acetilcolina y sus derivados",
+        "Amine terciaria"
+      ],
       "uso": [
         "Glaucoma: ángulo cerrado y ángulo abierto",
         "Síndrome de Sjögren (sx piel/cabeza/cuello): sequedad bucal",
@@ -155,13 +145,11 @@
     {
       "nombre": "Cevimelina",
       "grupo": "Alcaloides muscarínicos de acción sintética",
-      "mecanismo_de_accion": {
-        "tipo": "Agonista muscarínico selectivo M3",
-        "efectos": [
-          "Alta afinidad M3 => glándulas lagrimales y salivales",
-          "Amine cuaternaria"
-        ]
-      },
+      "mecanismo_de_accion": [
+        "Agonista muscarínico selectivo M3",
+        "Alta afinidad M3 => glándulas lagrimales y salivales",
+        "Amine cuaternaria"
+      ],
       "uso": [
         "Sx Sjögren para xerostomía",
         "Glaucoma",
