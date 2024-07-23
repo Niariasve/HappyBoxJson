@@ -1,0 +1,2197 @@
+[
+  {
+    "nombre": ["BETANECOL"],
+    "grupo farmacologico": "Ésteres de colina de acción directa",
+    "mecanismo de accion": [
+      "Agonista directo selectivo muscarínico (M1, M2, M3)",
+      "Estimula micción / Receptor parasimpático: Aumenta la contracción del músculo detrusor de la vejiga, relaja el esfínter trigono vesical.",
+      "Aumente de secreciones: sudoración y salivación",
+      "Contracción del músculo liso: aumenta el peristaltismo (excepto que se relaja el músculo liso vascular) por ende baja frecuencia cardíaca",
+      "Efecto insignificante en los receptores nicotínicos"
+    ],
+    "uso": [
+      "Íleo (obstrucción intestinal)",
+      "Tx (R.U) Vejiga atónica postoperatorio, postparto",
+      "Vejiga neurogénica.",
+      "(R.U) Retención urinaria no obstructiva"
+    ],
+    "efectos adversos": [
+      "Sudoracion",
+      "Salivación (Sialorrea)",
+      "Flushing",
+      "Nausea",
+      "Diarrea",
+      "Baja PA",
+      "Contr. m. ciliar del ojo (miosis)",
+      "Urgencia urinaria",
+      "Broncoespasmos",
+      "Calambres Abdominales."
+    ]
+  },
+  {
+    "nombre": ["Carbacol"],
+    "grupo farmacologico": "Ésteres de colina de acción directa",
+    "mecanismo de accion": [
+      "Agonista directo no selectivo M y N",
+      "Ojo: Miosis (m.ciliar) y espasmo de acomodación",
+      "No se inactiva por Ach-asa",
+      "Efecto CV y GI.",
+      "Activa Estimulación ganglionar (estimula y luego deprime)",
+      "Libera Epinefrina por su acción N. a nivel renal.",
+      "Amina cuaternaria"
+    ],
+    "uso": [
+      "Tx Glaucoma - como agente miotico, uso tópico.",
+      "Reducir Presión Intra Ocular"
+    ],
+    "efectos adversos": [
+      "Efectos adversos escasos por su uso casi exclusivo para glaucoma;",
+      "visión borrosa y discapacidad visual.",
+      "desprendimiento de retina, irritación ocular",
+      "Cefalea",
+      "Flushing",
+      "Diaforesis (Sudoracion excesiva)",
+      "Aumento de PIO"
+    ]
+  },
+  {
+    "nombre": ["Acetilcolina"],
+    "grupo farmacologico": "Ésteres de colina de acción directa",
+    "mecanismo de accion": [
+      "Agonista directo no selectivo M y N",
+      "Neurotransmisor fibras PSP y SP",
+      "Disminuye FC y PA por vasodilatación.",
+      "Miosis",
+      "No penetra membranas celulares -> baja solubilidad.",
+      "Amina cuaternaria"
+    ],
+    "uso": [
+      "No hay: la ACh-asa lo degrada rápido y no selectivo: muchas acciones."
+    ],
+    "efectos adversos": [
+      "Bradicardia",
+      "Hipotensión",
+      "Aumento conductividad nodo AV",
+      "Sofocos",
+      "Diaforesis",
+      "Visión borrosa (miosis)",
+      "Edema corneal",
+      "Disnea",
+      "Fx parasimpaticomimeticas acentuados"
+    ]
+  },
+  {
+    "nombre": ["Metacolina"],
+    "grupo farmacologico": "Ésteres de colina de acción directa",
+    "mecanismo de accion": [
+      "Agonista directo no selectivo M y débil/nula N",
+      "Ach-asa lo inactiva (débilmente) / (menos que Ach)",
+      "Constricción m. liso bronquial (M) (Broncoconstricción)",
+      "Amina cuaternaria"
+    ],
+    "uso": [
+      "Dx de Hiperreactividad bronquial en pacientes SIN asma aparente"
+    ],
+    "efectos adversos": [
+      "Cefalea",
+      "Sudoración",
+      "Salivación",
+      "Irritación faríngea",
+      "Broncospasmo",
+      "Calambres gastrointestinal",
+      "Vomitos",
+      "Lagrimeo",
+      "Prurito",
+      "Perdida de conocimiento"
+    ]
+  },
+  {
+    "nombre": ["Pilocarpina"],
+    "grupo farmacologico": "Alcaloides muscarínicos de acción directa",
+    "mecanismo de accion": [
+      "Agonista parcial muscarínico",
+      "Miosis rapida y contraccion muscular ciliar (espasmo acomodación) -> M3",
+      "Aumenta secreción de sudor, lagrimas y saliva.",
+      "Ach-asa no la inactiva",
+      "Es menos potente que la acetilcolina y sus derivados.",
+      "Amina terciaria"
+    ],
+    "uso": [
+      "Glaucoma: ángulo cerrado y ángulo abierto.",
+      "Síndrome de Sjögren: salivación de Px. (Sx preferible cevimelina, Fx prolongado)",
+      "Emergencias: bajar PIO.",
+      "Pos Radioterapia en cabeza y cuello (sequedad bucal por inflamación de glándulas salivales) (spray -> salivación)",
+      "Antídoto por envenenamiento de atropina"
+    ],
+    "efectos adversos": [
+      "Ingresa -> cerebro (Alt. SNC -> euforia)",
+      "Aumenta de salivación sudoración.",
+      "Afecta acomodación visual.",
+      "Cefalea.",
+      "Flushing",
+      "Mareo - escotofríos - nausea - aumenta frecuencia urinaria, rinitis",
+      "Menor frecuencia: dolor, astenia, dispepsia, vómitos, hipertensión, lagrimeo, ambliopía."
+    ]
+  },
+  {
+    "nombre": ["Cevimelina"],
+    "grupo farmacologico": "Alcaloides muscarínicos de acción sintética",
+    "mecanismo de accion": [
+      "Agonista muscarínico selectivo M3 Alta afinidad M3 - epitelio glándulas lagrimales y salivales = aumenta salivación."
+    ],
+    "uso": [
+      "Sx Sjögren para xerostomía",
+      "Glaucoma",
+      "Presión intraocular"
+    ],
+    "efectos adversos": [
+      "Entra al cerebro",
+      "Diaforesis",
+      "Sialorrea",
+      "Escurrimiento nasal",
+      "Náuseas"
+    ]
+  },
+  {
+    "nombre": ["Muscarina"],
+    "grupo farmacologico": "Alcaloides muscarínicos de acción directa",
+    "mecanismo de accion": [
+      "Agonista muscarínico",
+      "Amina cuaternaria",
+      "Receptores muscarínicos = Acetilcolina",
+      "Disminuye FC y PA por vasodilatación"
+    ],
+    "uso": [
+      "NO HAY"
+    ],
+    "efectos adversos": [
+      "Efectos colinérgicos exacerbados",
+      "Salivación",
+      "Lagrimeo",
+      "Náusea",
+      "Vómito",
+      "Cefaleas",
+      "Alteraciones visuales",
+      "Cólico abdominal",
+      "Diarrea",
+      "Broncoespasmo, bradicardia, hipotensión y choque."
+    ]
+  },
+  {
+    "nombre": ["Nicotina"],
+    "grupo farmacologico": "Alcaloide natural AGONISTAS NICOTÍNICOS DE ACCIÓN DIRECTA",
+    "mecanismo de accion": [
+      "Agonista directo no selectivo N (Nn,Nm)",
+      "Activa neuronas posganglionares autónomas (sp y psp) y placas terminales neuromusculares del músculo esquelético.",
+      "Aumento de act GI de manera aguda",
+      "Aumento de la PA.",
+      "NN (ganglios autónomos, médula suprarrenal, neuronas del SNC)",
+      "NM (unión neuromuscular)",
+      "Amina terciaria, Ingresa al SNC"
+    ],
+    "uso": [
+      "Dejar de fumar y evitar sx de abstinencia",
+      "Colitis ulcerosa leve a moderada",
+      "Uso no médico: insecticida."
+    ],
+    "efectos adversos": [
+      "Náusea, vómito, diarrea.",
+      "Altas dosis: convulsiones.",
+      "Riesgo GI a largo plazo y factor de riesgo CV"
+    ]
+  },
+  {
+    "nombre": ["Vareniclina"],
+    "grupo farmacologico": "Alcaloide natural AGONISTAS NICOTÍNICOS DE ACCIÓN DIRECTA",
+    "mecanismo de accion": [
+      "Agonista parcial selectivo en receptores nicotínicos α4β2.",
+      "Agonista parcial: alivia síntomas de abstinencia nicotínica y ansia de fumar.",
+      "Antagonista: bloquea efectos del refuerzo del uso de nicotina."
+    ],
+    "uso": [
+      "Uso exclusivo para dejar de fumar."
+    ],
+    "efectos adversos": [
+      "Trastornos del sueño",
+      "Cefalea",
+      "Nausea",
+      "Vómito",
+      "Estreñimiento",
+      "Flatulencia",
+      "Acidez, mal sabor de boca"
+    ]
+  },
+  {
+    "nombre": ["Lobelina"],
+    "grupo farmacologico": "Alcaloide natural AGONISTA NICOTÍNICO",
+    "mecanismo de accion": [
+      "Agonista parcial nicotínico (menor acción que la nicotina)",
+      "Aumento de PA y actividad GI."
+    ],
+    "uso": [
+      "Dejar de fumar"
+    ],
+    "efectos adversos": [
+      "Mareo",
+      "Nauseas",
+      "Vómitos"
+    ]
+  },
+  {
+    "nombre": ["Arecolina"],
+    "grupo farmacologico": "Alcaloide natural",
+    "mecanismo de accion": [
+      "Agonista parcial M3 y M5; receptores nicotínicos"
+    ],
+    "uso": [
+      "Retrasa deterioro cognitivo en Alzheimer.",
+      "Anthelmíntico."
+    ],
+    "efectos adversos": [
+      "Lagrimeo",
+      "Miosis",
+      "Salivación",
+      "Sudoración",
+      "Diarrea",
+      "Bradicardia",
+      "Emesis (arcadas/vómitos)",
+      "Letargo"
+    ]
+  },
+  {
+    "nombre": ["Edrofonio"],
+    "grupo farmacologico": "INHIBIDOR DE LA COLINESTERASA DE ACCION CORTA (ALCOHOL)",
+    "mecanismo de accion": [
+      "Alcohol - Inhibidor reversible de la AChE",
+      "Inhibe hidrólisis de ACh por unión competitiva a la AChE = Amplifica las acciones de ACh.",
+      "Aumenta act parasimpática y transmisión neuromuscular somática.",
+      "No ingresa al SNC, Amina cuaternaria"
+    ],
+    "uso": [
+      "Dx y tto agudo de miastenia gravis (Prueba de Tensión)",
+      "Arritmias",
+      "Íleo"
+    ],
+    "efectos adversos": [
+      "Exceso parasimpaticomimético",
+      "Arritmia cardiaca",
+      "Taquicardia",
+      "Bradicardia",
+      "Aumento de sudoración y salivación",
+      "Náuseas",
+      "Vómitos.",
+      "DUMBELLSS"
+    ]
+  },
+  {
+    "nombre": ["Neostigmina"],
+    "grupo farmacologico": "INHIBIDORES DE LA COLINESTERASA DE ACCION INTERMEDIA (CARBAMATOS)",
+    "mecanismo de accion": [
+      "Inhibidor reversible de AChE, Agonista indirecto reversible",
+      "Inhibe la hidrólisis de ACh por unión competitiva a la AChE.",
+      "Mayor efecto muscular: activa los colinorreceptores nicotínicos neuromusculares directamente. (NM)",
+      "Amina cuaternaria, No ingresa al SNC."
+    ],
+    "uso": [
+      "Miastenia gravis",
+      "Íleo postoperatorio y neurogénico",
+      "Retención urinaria"
+    ],
+    "efectos adversos": [
+      "Trastornos de la acomodación",
+      "Mareos",
+      "Hipersecreción bronquial",
+      "Espasmo bronquial",
+      "Espasmo laríngeo",
+      "Bradicardia",
+      "Hipervigilación",
+      "Sudoración",
+      "Incontinencia urinaria",
+      "Calambres abdominales",
+      "Aumento del peristaltismo"
+    ]
+  },
+  {
+    "nombre": ["Piridostigmina"],
+    "grupo farmacologico": "INHIBIDORES DE LA COLINESTERASA DE ACCION INTERMEDIA (CARBAMATOS)",
+    "mecanismo de accion": [
+      "Inhibidor reversible de AChE, Agonista indirecto reversible",
+      "Inhibe hidrólisis de ACh por unión competitiva a la AChE.",
+      "Acción prolongada 4-6 h",
+      "Amina cuaternaria",
+      "Receptor N más que M"
+    ],
+    "uso": [
+      "Miastenia gravis"
+    ],
+    "efectos adversos": [
+      "Trastornos de la acomodación",
+      "Mareos",
+      "Hipersecreción bronquial",
+      "Espasmo bronquial",
+      "Espasmo laríngeo",
+      "Bradicardia",
+      "Hipervigilación",
+      "Sudoración",
+      "Incontinencia urinaria",
+      "Calambres abdominales",
+      "Aumento del peristaltismo",
+      "Diarrea"
+    ]
+  },
+  {
+    "nombre": ["Fisiostigmina (Eserina)"],
+    "grupo farmacologico": "INHIBIDORES DE LA COLINESTERASA DE ACCION INTERMEDIA (CARBAMATOS)",
+    "mecanismo de accion": [
+      "Inhibidor reversible de AChE, Agonista indirecto reversible",
+      "Inhibe la hidrólisis de ACh por unión competitiva a la AChE.",
+      "Estimula Nm y Nm, y M.",
+      "Aumenta motilidad intestinal y vejiga urinaria.",
+      "Amina terciaria, pasa al SNC."
+    ],
+    "uso": [
+      "Miastenia gravis",
+      "Íleo postoperatorio y neurogénico.",
+      "Retención urinaria",
+      "Envenenamiento colinérgico: atropina, fenotiazinas y anti-depresivos tricíclicos"
+    ],
+    "efectos adversos": [
+      "Todo paciente debe estar monitoreado:",
+      "Convulsiones",
+      "Bradicardia",
+      "Parálisis músculo esquelético (fallo respiratorio)."
+    ]
+  },
+  {
+    "nombre": ["Rivastigmina"],
+    "grupo farmacologico": "INHIBIDORES DE LA COLINESTERASA DE ACCION INTERMEDIA (CARBAMATOS)",
+    "mecanismo de accion": [
+      "Facilita la neurotransmisión colinérgica",
+      "Ralentiza la degradación de ACh liberada por neuronas colinérgicas funcionalmente intactas."
+    ],
+    "uso": [
+      "Síntomas de Alzheimer leve a moderadamente grave.",
+      "Demencia leve a moderadamente grave con enf. de Parkinson"
+    ],
+    "efectos adversos": [
+      "Anorexia",
+      "Agitación",
+      "Confusión",
+      "Ansiedad",
+      "Mareos",
+      "Somnolencia",
+      "Temblor",
+      "Dolor"
+    ]
+  },
+  {
+    "nombre": ["Donepezilo"],
+    "grupo farmacologico": "INHIBIDORES DE LA COLINESTERASA DE ACCION INTERMEDIA (CARBAMATOS)",
+    "mecanismo de accion": [
+      "Inhibidor específico y reversible de acetilcolinesterasa (cerebro), Agonista indirecto reversible",
+      "Liposoluble, ingresa al SNC"
+    ],
+    "uso": [
+      "Alzheimer (junto con tacrina, galantamina, rivastigmina)"
+    ],
+    "efectos adversos": [
+      "Nausea",
+      "Diarrea",
+      "Insomnio",
+      "Vómito",
+      "Cefalea",
+      "Fatiga",
+      "Anorexia",
+      "Calambres",
+      "Hipotensión, Síncope",
+      "Confusión y alucinaciones"
+    ]
+  },
+  {
+    "nombre": ["Ecotiofato"],
+    "grupo farmacologico": "INHIBIDOR DE LA ACETILCOLINESTERASA DE ACCION LARGA (ORGANOFOSFORADOS)",
+    "mecanismo de accion": [
+      "Inhibidor irreversible de la AChE, Agonista indirecto reversible",
+      "Inhibe la hidrólisis de ACh por unión competitiva a la AChE, pero de manera lenta.",
+      "Actúa sobre receptores muscarínicos.",
+      "Amplifica acciones de acetilcolina, + act parasimpática, transmisión neuromuscular somática."
+    ],
+    "uso": [
+      "Se usó en el Glaucoma-",
+      "OBSOLETO-"
+    ],
+    "efectos adversos": [
+      "Dolor de cejas",
+      "Uveítis",
+      "Visión borrosa",
+      "Lágrima",
+      "Convulsión",
+      "Bradicardia",
+      "Parálisis muscular"
+    ]
+  },
+  {
+    "nombre": ["Malatión"],
+    "grupo farmacologico": "INHIBIDOR DE LA ACETILCOLINESTERASA DE ACCION LARGA (ORGANOFOSFORADOS)",
+    "mecanismo de accion": [
+      "Inhibidor irreversible de la AChE, Agonista indirecto irreversible",
+      "Receptores muscarínicos"
+    ],
+    "uso": [
+      "Insecticida, en algunas ocasiones: ectoparásitico"
+    ],
+    "efectos adversos": [
+      "Efecto tóxico en los peces",
+      "Dificultad para respirar",
+      "Opresión del pecho",
+      "Vómitos",
+      "Calambres estomacales",
+      "SLUDGE: salivación, lagrimeo, micción, defecación, vaciamiento gástrico.",
+      "BBB: bradicardia, broncorrea, broncoespasmo. característico que duela la mitad superior de la cara",
+      "Visión borrosa, sudor excesivo, dolor de cabeza, mareo, pérdida del conocimiento",
+      "MUERTE"
+    ]
+  },
+  {
+    "nombre": ["Paratión"],
+    "grupo farmacologico": "INHIBIDOR DE LA ACETILCOLINESTERASA DE ACCION LARGA (ORGANOFOSFORADOS)",
+    "mecanismo de accion": [
+      "Inhibidor irreversible de la AChE, Agonista indirecto irreversible"
+    ],
+    "uso": [
+      "Insecticida"
+    ],
+    "efectos adversos": [
+      "Efecto tóxico para el ganado vacuno",
+      "Peligroso para todos los animales; toxicidad importante debido al uso agrícola y la exposición de los trabajadores agrícolas",
+      "Dificultad para respirar",
+      "Opresión del pecho",
+      "Vómitos",
+      "Calambres estomacales",
+      "SLUDGE: salivación, lagrimeo, micción, defecación, vaciamiento gástrico.",
+      "BBB: bradicardia, broncorrea, broncoespasmo. característico que duela la mitad superior de la cara",
+      "Visión borrosa, sudor excesivo, dolor de cabeza, mareo, pérdida del conocimiento",
+      "MUERTE"
+    ]
+  },
+  {
+    "nombre": ["Isofluorato"],
+    "grupo farmacologico": "INHIBIDOR DE LA ACETILCOLINESTERASA DE ACCION LARGA (ORGANOFOSFORADOS)",
+    "mecanismo de accion": [
+      "Inhibidor irreversible de la AChE, Agonista indirecto irreversible"
+    ],
+    "uso": [
+      "Glaucoma y Gas nervioso"
+    ],
+    "efectos adversos": [
+      "Dolor de cejas",
+      "Uveítis",
+      "Visión borrosa",
+      "Diarrea",
+      "Convulsión",
+      "Bradicardia",
+      "Parálisis muscular"
+    ]
+  },
+  {
+    "nombre": ["Sarin"],
+    "grupo farmacologico": "INHIBIDOR DE LA ACETILCOLINESTERASA DE ACCIÓN LARGA (ORGANOFOSFORADOS)",
+    "mecanismo de accion": [
+      "Inhibidor irreversible de la AChE, Agonista indirecto irreversible"
+    ],
+    "uso": [
+      "Gas nervioso (Guerra y terrorismo)"
+    ],
+    "efectos adversos": [
+      "INTOXICACION MORTAL",
+      "Dolor de cabeza",
+      "Mareo",
+      "Visión borrosa, opresión en el pecho, sudor, náusea, vómitos, diarrea, espasmos musculares, pérdida de coordinación, convulsiones, coma y muerte."
+    ]
+  },
+  {
+    "nombre": ["Escopolamina"],
+    "grupo farmacologico": "ANTICOLINÉRGICO - ANTIMUSCARÍNICO FÁRMACOS PARA LA ENFERMEDAD DEL MOVIMIENTO (CINETOSIS)",
+    "mecanismo de accion": [
+      "Antagonista competitivo muscarínico",
+      "Mecanismo desconocido en SNC.",
+      "Mayor acción larga en SNC.",
+      "Dosis bajas: sedación.",
+      "Dosis altas: excitación",
+      "Amina terciaria"
+    ],
+    "uso": [
+      "Prevención de la cinetosis (mareo de movimiento)",
+      "Náuseas y vómitos postoperatorios",
+      "Vértigo",
+      "Bloqueo de memoria a corto plazo"
+    ],
+    "efectos adversos": [
+      "Taquicardia",
+      "Visión borrosa",
+      "Xerostomía (Boca seca)",
+      "Delirio",
+      "SNC: inquietud, confusión, convulsión, delirio"
+    ]
+  },
+  {
+    "nombre": ["Diciclomina", "Hiosciamina (lo mismo pero de mayor duración)", "Glucopirrolato (similar a diciclomina)"],
+    "grupo farmacologico": "ANTICOLINÉRGICO - ANTIMUSCARÍNICO",
+    "mecanismo de accion": [
+      "Antagonista competitivo en los receptores M3",
+      "Reduce la actividad de la musculatura lisa y secretora",
+      "Amina terciaria"
+    ],
+    "uso": [
+      "Asma",
+      "Sx del intestino irritable",
+      "Diarrea leve",
+      "Epoc"
+    ],
+    "efectos adversos": [
+      "Apnea",
+      "Taquicardia",
+      "Confusión",
+      "Retención urinaria",
+      "Presión intraocular incrementada",
+      "Bradicardia"
+    ]
+  },
+  {
+    "nombre": ["Atropina (Alkaloide de Belladona)", "Homatropina (12-14h)", "Ciclopentolato (3-6h)", "Tropicamida (15-60min) mayor uso"],
+    "grupo farmacologico": "Fármaco anticolinérgico Antagonista muscarínico OFTALMOLOGIA ENVENENAMIENTO COLINÉRGICO",
+    "mecanismo de accion": [
+      "Antagonista competitivo no selectivo muscarínico",
+      "SNC y periferia",
+      "Bloquea exceso muscarínico en glándulas exocrinas, corazón y m. liso.",
+      "Baja IP3 (Inositol trifosfato), Inhibe adenil ciclasa.",
+      "Ojo: Midriasis persistente (72h) y cicloplejia.",
+      "GI y urinario: Disminuye motilidad",
+      "Corazón:",
+      "Bloquea vagal corazón -> bloquea M1.",
+      "Dosis bajas: bradicardia",
+      "Dosis altas: aumenta FC - M2.",
+      "Secreción: Bloquea secreciones y el sudor, aumenta la temp.",
+      "Amina terciaria"
+    ],
+    "uso": [
+      "Examen retinal",
+      "Prevención de sinequia postoperatoria",
+      "Antídoto para envenenamiento severo con inhibidor de colinesterasa y organofosforados.",
+      "Uso en RCP, Bloquean los bloqueadores neuromusculares no despolarizantes",
+      "Intoxicación por hongos"
+    ],
+    "efectos adversos": [
+      "Aumenta PIO en glaucoma de ángulo cerrado",
+      "Xerostomía",
+      "Visión Borrosa",
+      "Taquicardia",
+      "Estreñimiento",
+      "SNC: inquietud, confusión, convulsión, delirio, alucinaciones, coma",
+      "Alteración de la acomodación",
+      "Acordarse en caso de intoxicación:",
+      "Hueso - seco",
+      "Mucilaginoso - ciego",
+      "Tomate - rojo",
+      "Cabra - loquito"
+    ]
+  },
+  {
+    "nombre": ["Ipratropio", "Tiotropio", "Aclidinio", "Umeclidinio (Mayor duración, mismo fin)"],
+    "grupo farmacologico": "Fármaco anticolinérgico Respiratorio (ASMA, EPOC)",
+    "mecanismo de accion": [
+      "Antagonista no selectivo competitivo M",
+      "Inhibe los reflejos mediados por el vago.",
+      "Previene el aumento de la concentración de calcio intracelular causado por la interacción de la acetilcolina con los receptores muscarínicos en el músculo liso bronquial.",
+      "NO ENTRA AL SNC"
+    ],
+    "uso": [
+      "Previene los episodios agudos de broncoespasmo",
+      "ASMA",
+      "EPOC"
+    ],
+    "efectos adversos": [
+      "Xerostomía",
+      "Tos"
+    ]
+  },
+  {
+    "nombre": ["Oxitibutina"],
+    "grupo farmacologico": "Fármaco anticolinérgico Nefrología",
+    "mecanismo de accion": [
+      "Ligeramente antagonista muscarínico selectivo M3",
+      "Tiene una menor selectividad por M3",
+      "Reduce el tono del músculo liso del detrusor",
+      "Espasmos",
+      "Amina cuaternaria"
+    ],
+    "uso": [
+      "Incontinencia de urgencia/Vejiga hiperactiva",
+      "Espasmos posoperatorios"
+    ],
+    "efectos adversos": [
+      "Taquicardia",
+      "Estreñimiento",
+      "Aumento de la presión intraocular",
+      "Xerostomía"
+    ]
+  },
+  {
+    "nombre": ["Darifenacina", "Solifenacina", "Tolterodina"],
+    "grupo farmacologico": "Fármaco anticolinérgico Nefrología",
+    "mecanismo de accion": [
+      "Antagonista competitivo muscarínico selectivo M3",
+      "Limita contracciones de la vejiga. (reduce el tono del m. liso detrusor)",
+      "Reduce síntomas de irritabilidad de la vejiga.",
+      "Amina terciaria"
+    ],
+    "uso": [
+      "Incontinencia de urgencia/Vejiga hiperactiva",
+      "Espasmos posoperatorios"
+    ],
+    "efectos adversos": [
+      "Taquicardia",
+      "Estreñimiento",
+      "Aumento de la presión intraocular",
+      "Xerostomía"
+    ]
+  },
+  {
+    "nombre": ["Tropsio"],
+    "grupo farmacologico": "Fármaco anticolinérgico Nefrología",
+    "mecanismo de accion": [
+      "Antagonista muscarínico no selectivo",
+      "Amina cuaternaria con menos efectos en SNC"
+    ],
+    "uso": [
+      "Incontinencia de urgencia/Vejiga hiperactiva",
+      "Espasmos posoperatorios",
+      "Insuficiencia renal",
+      "Deterioro hepático"
+    ],
+    "efectos adversos": [
+      "Taquicardia",
+      "Estreñimiento",
+      "Aumento de la presión intraocular",
+      "Xerostomía"
+    ]
+  },
+  {
+    "nombre": ["Pralidoxima", "Diacetilmonoxima", "Obidoxima"],
+    "grupo farmacologico": "Fármaco anticolinérgico Envenenamiento colinérgico",
+    "mecanismo de accion": [
+      "Reactivador de la colinesterasa",
+      "Se une a organofosforados y rompe el enlace alquil fosfato-colinesterasa = restaurar la actividad de la acetilcolinesterasa",
+      "Muy alta afinidad por el átomo de fósforo pero no ingresa al SNC",
+      "Anula el bloqueo de la placa terminal del músculo estriado"
+    ],
+    "uso": [
+      "Antídoto en fase temprana (48h) de la intoxicación por organosfosforados"
+    ],
+    "efectos adversos": [
+      "Debilidad muscular"
+    ]
+  },
+  {
+    "nombre": ["Trimetafán (Camsilato)"],
+    "grupo farmacologico": "Fármaco anticolinérgico Bloqueantes ganglionares",
+    "mecanismo de accion": [
+      "Bloqueador ganglionar - Antagonista competitivo no despolarizante Nn",
+      "Amina cuaternaria sintética",
+      "Penetra barrera hematoencefálica y entra al SNC"
+    ],
+    "uso": [
+      "Tx a corto plazo de HT.",
+      "OBSOLETO"
+    ],
+    "efectos adversos": [
+      "Hipotensión",
+      "Xerostomía",
+      "Temblor"
+    ]
+  },
+  {
+    "nombre": ["Mecamilamina"],
+    "grupo farmacologico": "Fármaco anticolinérgico Bloqueantes ganglionares",
+    "mecanismo de accion": [
+      "Bloqueador ganglionar - Antagonista competitivo no despolarizante Nn",
+      "Bloquea Nn centrales",
+      "Amina secundaria sintética/ penetra S.N.C"
+    ],
+    "uso": [
+      "Tx de HT moderadamente severa a severa",
+      "Antitabaco"
+    ],
+    "efectos adversos": [
+      "Hipotensión",
+      "Xerostomía",
+      "Estreñimiento",
+      "Temblor",
+      "Fatiga",
+      "Sedación",
+      "Movimientos coreiformes",
+      "Convulsiones",
+      "Anorexia"
+    ]
+  },
+  {
+    "nombre": ["Succinilcolina"],
+    "grupo farmacologico": "Agente bloqueador neuromuscular despolarizante",
+    "mecanismo de accion": [
+      "Receptores agonistas de acetilcolina nicotínico, especialmente en uniones neuromusculares",
+      "Estimula receptores ganglionares nicotínicos ACh y cardionicotínicos ACh.",
+      "Agonista colinérgico, permanece unido al receptor ACh = despolarización prolongada en la membrana.",
+      "Fase 1: (despolarizante) Apertura de los canales Na, despolariza la placa motora terminal y no responde a estímulos (estado de bloqueo despolarizado), no hay repolarización por lo que no se mantiene la tensión muscular y genera parálisis flácida.",
+      "Fase 2: (Desensibilización) la despolarización disminuye y hay repolarización pero la membrana está desensibilizada. Canales en un estado cerrado."
+    ],
+    "uso": [
+      "Intubación endotraqueal.",
+      "Raramente, controla contracciones musculares en estado epiléptico"
+    ],
+    "efectos adversos": [
+      "Arritmias",
+      "Hipercalemia",
+      "Aumento transitorio de la presión intraocular",
+      "Dolor muscular postoperatorio",
+      "Hipertermia maligna",
+      "Apnea",
+      "Hipertensión",
+      "Hipercalcemia en quemados",
+      "Bradicarida -Regurgitación gástrica",
+      "NO PX TRAUMAS: ELEVA POTASIO"
+    ]
+  },
+  {
+    "nombre": ["d-tubocurarina – ya no se usa lo reemplaza: Atracurio (acción media)"],
+    "grupo farmacologico": "Agente bloqueador neuromuscular no despolarizante derivado de la isoquinolina",
+    "mecanismo de accion": [
+      "Antagonista competitivo en receptores nACh, especialmente en uniones neuromusculares",
+      "Causa un bloqueo intenso en el receptor nicotínico = debilita la transmisión neuromuscular.",
+      "Evita la despolarización por ACh = Parálisis flácida",
+      "Puede causar liberación de histaminas con hipotensión",
+      "Bloqueo débil de receptores ACh muscarínicos cardiacos"
+    ],
+    "uso": [
+      "Relajación prolongada para procedimientos quirúrgicos",
+      "Atracurio anestesia general"
+    ],
+    "efectos adversos": [
+      "Liberación de histamina",
+      "Hipotensión",
+      "Apnea prolongada",
+      "Broncoespasmo",
+      "Reacciones alérgicas"
+    ]
+  },
+  {
+    "nombre": ["Mivacurio"],
+    "grupo farmacologico": "Agente bloqueador neuromuscular no despolarizante",
+    "mecanismo de accion": [
+      "Antagonista competitivo en receptores nACh, especialmente en uniones neuromusculares",
+      "Causa un bloqueo intenso en el receptor nicotínico = debilita la transmisión neuromuscular.",
+      "Evita la despolarización por ACh = Parálisis flácida",
+      "LIBERA MAYOR HISTAMINA +++++",
+      "Bloqueo débil de receptores ACh muscarínicos cardiacos"
+    ],
+    "uso": [
+      "Procedimientos quirúrgicos",
+      "Intubación endotraqueal"
+    ],
+    "efectos adversos": [
+      "Liberación de GRANDES cantidades de histamina",
+      "Hipotensión",
+      "Rubor",
+      "Broncoespasmo",
+      "Secreción bronquial"
+    ]
+  },
+  {
+    "nombre": ["Cisatracurio (isomero de atracurio)"],
+    "grupo farmacologico": "Agente bloqueador neuromuscular no despolarizante derivado de la isoquinolina",
+    "mecanismo de accion": [
+      "Antagonista competitivo en receptores nACh, especialmente en uniones neuromusculares",
+      "Causa un bloqueo intenso en el receptor nicotínico = debilita la transmisión neuromuscular.",
+      "Evita la despolarización por ACh = Parálisis flácida",
+      "NO LIBERA HISTAMINA ----"
+    ],
+    "uso": [
+      "Relajación prolongada para procedimientos quirúrgicos",
+      "Anestesia general",
+      "Relajación de músculos respiratorios (facilitar ventilación mecánica)"
+    ],
+    "efectos adversos": [
+      "Apnea prolongada pero menos tóxico que el atracurio"
+    ]
+  },
+  {
+    "nombre": ["Rocuronio"],
+    "grupo farmacologico": "Agente bloqueador neuromuscular no despolarizante Derivado de esteroides, acción intermedia",
+    "mecanismo de accion": [
+      "Antagonista competitivo en receptores nACh, especialmente en uniones neuromusculares",
+      "Causa un bloqueo intenso en el receptor nicotínico = debilita la transmisión neuromuscular.",
+      "Evita la despolarización por ACh = Parálisis flácida",
+      "Inicio rápido y duración corta",
+      "NO LIBERA HISTAMINA ----",
+      "LEVE EFECTO ANTIMUSCARÍNICO"
+    ],
+    "uso": [
+      "Relajación prolongada para procedimientos quirúrgicos",
+      "Anestesia general",
+      "Relajación de músculos respiratorios (facilitar ventilación mecánica)",
+      "Útil en px con insuficiencia renal"
+    ],
+    "efectos adversos": [
+      "Apnea prolongada",
+      "Broncoespasmo",
+      "Flushing",
+      "Apnea"
+    ]
+  },
+  {
+    "nombre": ["Vecuronio"],
+    "grupo farmacologico": "Agente bloqueador neuromuscular no despolarizante Duración intermedia, derivado de esteroides Metabolizado en hígado",
+    "mecanismo de accion": [
+      "Bloqueador neuromuscular no despolarizante y Antagonista competitivo en receptores nACh, especialmente en uniones neuromusculares"
+    ],
+    "uso": [
+      "Intubación"
+    ],
+    "efectos adversos": [
+      "Taquicardia",
+      "Hipotensión",
+      "Broncoespasmo",
+      "Parálisis prolongada",
+      "Apnea"
+    ]
+  },
+  {
+    "nombre": ["Pancuronio"],
+    "grupo farmacologico": "Agente bloqueador neuromuscular no despolarizante Acción prolongada, derivado de esteroides",
+    "mecanismo de accion": [
+      "Bloqueador neuromuscular no despolarizante y Antagonista competitivo en receptores nACh, especialmente en uniones neuromusculares"
+    ],
+    "uso": [
+      "Cirugía",
+      "Intubación"
+    ],
+    "efectos adversos": [
+      "Taquicardia",
+      "Hipotensión",
+      "Broncoespasmo",
+      "Parálisis prolongada",
+      "Apnea",
+      "Aumento del gasto cardíaco"
+    ]
+  },
+  {
+    "nombre": ["Sugammadex"],
+    "grupo farmacologico": "Ciclodextrina gamma modificada",
+    "mecanismo de accion": [
+      "Antídoto - Agente de unión relajante selectivo"
+    ],
+    "uso": [
+      "Revierte el bloqueo neuromuscular inducido por rocuronio o vecuronio"
+    ],
+    "efectos adversos": [
+      "Hipotensión",
+      "Cefalea",
+      "Náuseas",
+      "Vómitos",
+      "Dolor local"
+    ]
+  },
+  {
+    "nombre": ["Baclofeno (p-clorofenil GABA)"],
+    "grupo farmacologico": "MEDICAMENTOS ESPASMOLÍTICOS QUE ACTÚAN CENTRALMENTE - Relajante del músculo esquelético",
+    "mecanismo de accion": [
+      "Agonista GABA-B,",
+      "Facilita inhibición neuronas motoras espinales",
+      "Inhibición motora pre y postsináptica.",
+      "Aumenta la conductancia del potasio y produce hiperpolarización",
+      "Inhibe sustancia P por eso se usa en espasticidad (reductor dolor)"
+    ],
+    "uso": [
+      "Espasticidad severa debido a parálisis cerebral",
+      "Esclerosis múltiple",
+      "Accidente cerebrovascular",
+      "Apoplejía"
+    ],
+    "efectos adversos": [
+      "Sedación",
+      "Debilidad",
+      "Rebote de espasticidad al retirarse bruscamente",
+      "Somnolencia excesiva.",
+      "Depresión respiratoria.",
+      "Coma."
+    ]
+  },
+  {
+    "nombre": ["Diazepam"],
+    "grupo farmacologico": "MEDICAMENTOS ESPASMOLÍTICOS QUE ACTÚAN CENTRALMENTE - Relajante del músculo esquelético - Bloqueador neuromuscular despolarizante",
+    "mecanismo de accion": [
+      "Agonista GABAa",
+      "Aumenta la inhibición interneuronal de aferentes motores primarios en médula espinal",
+      "Sedación central",
+      "Modula los efectos postsinápticos de la transmisión GABA-A, por ello aumenta la inhibición presináptica."
+    ],
+    "uso": [
+      "Espasmo crónico debido a parálisis cerebral, accidente cerebrovascular, lesión de la médula espinal",
+      "Espasmo agudo debido a lesión muscular"
+    ],
+    "efectos adversos": [
+      "Debilidad muscular",
+      "Sedación",
+      "Dolor de cabeza",
+      "Hipotensión"
+    ]
+  },
+  {
+    "nombre": ["Tizanidina"],
+    "grupo farmacologico": "MEDICAMENTOS ESPASMOLÍTICOS QUE ACTÚAN CENTRALMENTE - Relajante del músculo esquelético",
+    "mecanismo de accion": [
+      "Agonista α2-adrenoreceptor en la médula espinal",
+      "Inhibición de reflejo motor presináptico y postsináptico"
+    ],
+    "uso": [
+      "Espasmo debido a esclerosis múltiple, accidente cerebrovascular, esclerosis miotrófica lateral"
+    ],
+    "efectos adversos": [
+      "Mareos",
+      "Xerostomía",
+      "Hipotensión",
+      "Somnolencia",
+      "Astenia",
+      "Hepatotoxicidad (rara)",
+      "Rebote de hipertensión abrupta"
+    ]
+  },
+  {
+    "nombre": ["Gabapentina", "Pregabalina", "Proganida"],
+    "grupo farmacologico": "MEDICAMENTOS ESPASMOLÍTICOS QUE ACTÚAN CENTRALMENTE - Relajante del músculo esquelético",
+    "mecanismo de accion": [
+      "Anticonvulsivo, misceláneo; GABA Analógico",
+      "Influye en la síntesis o la captación de GABA"
+    ],
+    "uso": [
+      "Tx epilepsia y en neuralgia posherpética",
+      "Antiepiléptico usado en esclerosis múltiple"
+    ],
+    "efectos adversos": [
+      "Somnolencia",
+      "Xerostomía",
+      "Mareos",
+      "Fatiga"
+    ]
+  },
+  {
+    "nombre": ["Idrocilamida", "Riluzol"],
+    "grupo farmacologico": "MEDICAMENTOS ESPASMOLÍTICOS QUE ACTÚAN CENTRALMENTE - Relajante del músculo esquelético",
+    "mecanismo de accion": [
+      "Inhibe transmisión glutaminérgica en SNC"
+    ],
+    "uso": [
+      "Esclerosis lateral amiotrófica"
+    ],
+    "efectos adversos": [
+      "Mareos",
+      "Somnolencia",
+      "Xerostomía",
+      "Confusión"
+    ]
+  },
+  {
+    "nombre": ["Glicina"],
+    "grupo farmacologico": "MEDICAMENTOS ESPASMOLÍTICOS QUE ACTÚAN CENTRALMENTE - Relajante del músculo esquelético",
+    "mecanismo de accion": [
+      "Neurotransmisor inhibidor de aminoácidos / Atraviesa la barrera HE"
+    ],
+    "uso": [
+      "Disminuye espasticidad"
+    ],
+    "efectos adversos": [
+      "Irritación estomacal"
+    ]
+  },
+  {
+    "nombre": ["Ciclobenzaprina (despolarizante)", "Clorfenesina", "Metocarbamol", "Orfenadrina", "Clorzoxazona", "Metaxalona", "Carisoprodol"],
+    "grupo farmacologico": "MEDICAMENTOS ANTIESPASMÓDICOS QUE ACTÚAN CENTRALMENTE",
+    "mecanismo de accion": [
+      "Inhibición del arco reflejo muscular en la médula espinal, pobremente entendido",
+      "Reducción de reflejos musculares hiperactivos",
+      "Potenciación de la norepinefrina alivia los espasmos musculares a través de un efecto central",
+      "Efectos antimuscarínicos",
+      "Inhibición de 5-HT2 (receptor de serotonina)"
+    ],
+    "uso": [
+      "Espasmo agudo debido a lesión muscular",
+      "Inflamación"
+    ],
+    "efectos adversos": [
+      "Convulsiones",
+      "Xerostomía",
+      "Confusión",
+      "Mareo",
+      "Alucinaciones",
+      "Poliaquiuria",
+      "Taquicardia",
+      "Urticaria",
+      "Visión borrosa",
+      "Diarrea",
+      "Parestesias",
+      "Ansiedad"
+    ]
+  },
+  {
+    "nombre": ["Dantroleno"],
+    "grupo farmacologico": "RELAJANTES MUSCULARES DE ACCIÓN DIRECTA - ESPASMOLÍTICO DE ACCIÓN PERIFÉRICA Bloqueador neuromuscular despolarizante",
+    "mecanismo de accion": [
+      "(interfiere con los receptores de Rianodina)",
+      "Bloquea canales de liberación de RyR1 Ca2+ en el retículo sarcoplásmico del músculo esquelético",
+      "Reduce la interacción con actina - miosina",
+      "Debilita contracciones del músculo esquelético"
+    ],
+    "uso": [
+      "IV: Hipertermia maligna oral: Espasmo debido a parálisis cerebral",
+      "Lesión de la médula espinal",
+      "Esclerosis múltiple"
+    ],
+    "efectos adversos": [
+      "Debilidad muscular",
+      "Recuadro negro de advertencia de hepatotoxicidad"
+    ]
+  },
+  {
+    "nombre": ["Toxina botulínica"],
+    "grupo farmacologico": "RELAJANTES MUSCULARES DE ACCIÓN DIRECTA - ESPASMOLÍTICO DE ACCIÓN PERIFÉRICA Bloqueador neuromuscular despolarizante",
+    "mecanismo de accion": [
+      "Inhibe la exocitosis sináptica a través del recorte de la proteína de fusión vesicular en el terminal nervioso presináptico",
+      "Parálisis flácida"
+    ],
+    "uso": [
+      "Espasmo de las extremidades superiores e inferiores debido a parálisis cerebral",
+      "Esclerosis múltiple",
+      "Distonía cervical",
+      "Vejiga hiperactiva",
+      "Migraña",
+      "Hiperhidrosis"
+    ],
+    "efectos adversos": [
+      "Debilidad muscular",
+      "Caídas",
+      "Incontinencia urinaria",
+      "Fiebre"
+    ]
+  },
+  {
+    "nombre": ["Epinefrina (Adrenalina)"],
+    "grupo farmacologico": "Catecolaminas ENDÓGENAS - Simpaticomimético específico",
+    "mecanismo de accion": [
+      "AGONISTA ALFA (dosis altas) Y BETA (dosis bajas) - A1, A2, B1, B2",
+      "Dosis bajas: BETA - Vasodilatación (hígado y músculo esquelético) (B2)",
+      "Dosis altas: ALFA - Vasoconstricción (piel, membrana mucosas, vísceras)",
+      "Cardiovascular: B1: Inotropa, Cronotropa + ← Aumenta G y demanda de O2.",
+      "Respiratorio: Broncodilatación (B2)",
+      "Hiperglicemia: Aumenta glicogenolisis en el hígado (B2), Libera glucagon (B2), Disminuye liberación de insulina (A2)",
+      "Lipolisis: Tejido adiposo (B), lipasa sensible a hormona. Degrada triacilglicerol en FFA y glicerol."
+    ],
+    "uso": [
+      "Broncoespasmo",
+      "Glaucoma de ángulo abierto (disminuye humor acuoso)",
+      "Shock anafiláctico",
+      "Anestesia local",
+      "Reanimación en paro cardiaco"
+    ],
+    "efectos adversos": [
+      "SNC: Ansiedad, Cefalea, Temblor",
+      "Hemorragia cerebral por aumento de PA",
+      "Arritmia cardiaca",
+      "Edema pulmonar"
+    ]
+  },
+  {
+    "nombre": ["Norepinefrina (Levaterenol, noradrenalina)"],
+    "grupo farmacologico": "Catecolaminas ENDÓGENAS - Simpaticomimético específico",
+    "mecanismo de accion": [
+      "AGONISTA NO SELECTIVO ALFA Y SELECTIVO B1 - A1, A2, B1",
+      "NO TIENE ACCIÓN BETA 2",
+      "Cardiaco:",
+      "Vasoconstricción: aumento de resistencia vascular periférica, riñón (A1)",
+      "Eleva presión sistólica y diastólica.",
+      "Reflejo baroreceptor: poca estimulación cardiaca, aumento de la PA, elevación de la actividad vagal. Aumenta GC."
+    ],
+    "uso": [
+      "Shock séptico",
+      "Hipotensión aguda"
+    ],
+    "efectos adversos": [
+      "Bradicardia",
+      "Hipertensión",
+      "Arritmia cardiaca",
+      "Confusión",
+      "Ansiedad",
+      "Disnea"
+    ]
+  },
+  {
+    "nombre": ["Dopamina"],
+    "grupo farmacologico": "Catecolaminas ENDÓGENAS - Simpaticomimético específico",
+    "mecanismo de accion": [
+      "AGONISTA BETA, ALFA, y DOPAMINERGICO",
+      "Precursor inmediato de norepinefrina",
+      "Dosis altas: ALFA- Vasoconstricción",
+      "Dosis bajas: estimula B1 cardiaco",
+      "D1 - D2: Vasodilatación arteriales renal y mesentérica.",
+      "Cardiovascular: inotropico, cronotropico + B1, en altas dosis causa vasoconstricción A."
+    ],
+    "uso": [
+      "Droga de elección en Shock",
+      "Insuficiencia cardiaca congestiva ICC",
+      "Incrementar PA."
+    ],
+    "efectos adversos": [
+      "Nausea",
+      "Hipertensión",
+      "Arritmias",
+      "Rapida metabolización a Acido homovalínico."
+    ]
+  },
+  {
+    "nombre": ["Midodrina"],
+    "grupo farmacologico": "Agonista A1 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A1",
+      "Activa la fosfolipasa C = aumento del calcio intracelular.",
+      "Contracción del músculo liso vascular → aumenta PA"
+    ],
+    "uso": [
+      "Hipotensión ortostática"
+    ],
+    "efectos adversos": [
+      "Hipertensión supina",
+      "Piloerección (piel de gallina)",
+      "Retención urinaria"
+    ]
+  },
+  {
+    "nombre": ["Fenilefrina"],
+    "grupo farmacologico": "Agonista A1+A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A1",
+      "Activa la fosfolipasa C = aumento del calcio intracelular, vasoconstricción",
+      "No es metabolizado por COMT.",
+      "Contracción del m liso vascular = aumenta la PA sistólica y diastólica."
+    ],
+    "uso": [
+      "Hipotensión ortostática",
+      "Descongestionaste nasal para rinitis",
+      "Midriasis (Exploración de borde de ojo)"
+    ],
+    "efectos adversos": [
+      "Cefalea hipertensiva",
+      "Arritmias cardiacas",
+      "Piloerección (piel de gallina)",
+      "Retención urinaria"
+    ]
+  },
+  {
+    "nombre": ["Metoxamina"],
+    "grupo farmacologico": "Agonista A1+A2- Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A1",
+      "Activa la fosfolipasa C = aumento del calcio intracelular, vasoconstricción",
+      "Contracción del m liso vascular = aumenta la presión arterial (BP)",
+      "NO favorece arritmias cardiacas"
+    ],
+    "uso": [
+      "Estados hipotensivos por anestésicos",
+      "Taquicardia supraventricular"
+    ],
+    "efectos adversos": [
+      "Vómitos",
+      "Cefaleas hipertensivas"
+    ]
+  },
+  {
+    "nombre": ["Clonidina"],
+    "grupo farmacologico": "Agonista selectivo A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A2",
+      "Inhibe la adenil ciclasa e interactúa con otras vías intracelulares",
+      "Disminuye la PA por su efecto depresor central (analgesia, anestesia sedación) e enmascara la vasoconstricción.",
+      "También es utilizado como simpaticolíticos centrales"
+    ],
+    "uso": [
+      "Hipertensión",
+      "Anestesia sedación",
+      "Analgesico",
+      "Disminución de sofoco menopáusico",
+      "Sx de Tourette",
+      "TDAH"
+    ],
+    "efectos adversos": [
+      "Xerostomía",
+      "Sedación",
+      "Somnolencia",
+      "Cefalea",
+      "Hipotensión ortostática",
+      "Rash"
+    ]
+  },
+  {
+    "nombre": ["Alfametildopa (Metildopa)"],
+    "grupo farmacologico": "Agonista selectivo A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A2",
+      "Inhibe la adenil ciclasa e interactúa con otras vías intracelulares",
+      "Disminuye la PA por su efecto depresor central (analgesia, anestesia sedación) por eso enmascara la vasoconstricción.",
+      "También es utilizado como simpaticolíticos centrales"
+    ],
+    "uso": [
+      "Hipertensión en el embarazo",
+      "Prevención de preeclampsia y eclampsia"
+    ],
+    "efectos adversos": [
+      "Sedación",
+      "Cefalea",
+      "Astenia",
+      "Hipotensión ortostática",
+      "Bradicardia, Pancreatitis, Diarrea, Lengua Negra (vellosa), Anemia Hemolítica, Miocarditis, Pericarditis, Leucopenia, Necrosis Hepáticas."
+    ]
+  },
+  {
+    "nombre": ["Guanfacina"],
+    "grupo farmacologico": "Agonista selectivo A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A2",
+      "Inhibe la adenil ciclasa e interactúa con otras vías intracelulares",
+      "Disminuye la PA por su efecto depresor central (analgesia, anestesia sedación) por eso enmascara la vasoconstricción.",
+      "También es utilizado como simpaticolíticos centrales"
+    ],
+    "uso": [
+      "Hipertensión",
+      "Tx TDAH (Trastorno de déficit de atención con Hiperactividad)"
+    ],
+    "efectos adversos": [
+      "Sedación",
+      "Xerostomía",
+      "Dolor de cabeza",
+      "Estreñimiento",
+      "Fatiga",
+      "Irritabilidad",
+      "Náuseas, Vómito"
+    ]
+  },
+  {
+    "nombre": ["Guanabenz"],
+    "grupo farmacologico": "Agonista selectivo A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A2",
+      "Inhibe la adenil ciclasa e interactúa con otras vías intracelulares",
+      "Disminuye la PA por su efecto depresor central (analgesia, anestesia sedación) por eso enmascara la vasoconstricción.",
+      "También es utilizado como simpaticolíticos centrales"
+    ],
+    "uso": [
+      "Hipertensión"
+    ],
+    "efectos adversos": [
+      "Somnolencia o Sedación",
+      "Xerostomía",
+      "Mareos",
+      "Debilidad"
+    ]
+  },
+  {
+    "nombre": ["Dexmedetomidina (central)"],
+    "grupo farmacologico": "Agonista selectivo A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A2",
+      "Inhibe la adenil ciclasa e interactúa con otras vías intracelulares",
+      "Disminuye la PA por su efecto depresor central (analgesia, anestesia sedación) por eso enmascara la vasoconstricción.",
+      "ENTRA AL SNC, efecto sedante prominente",
+      "Abudante en la medula esponal"
+    ],
+    "uso": [
+      "Sedación en UCI o antes de la anestesia.",
+      "Hipertensión"
+    ],
+    "efectos adversos": [
+      "Somnolencia",
+      "Hipertensión",
+      "Hipotensión",
+      "Depresión respiratoria",
+      "Bradicarida",
+      "Xerostomía"
+    ]
+  },
+  {
+    "nombre": ["Apraclonidina"],
+    "grupo farmacologico": "Agonista selectivo A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A2",
+      "Inhibe la adenil ciclasa e interactúa con otras vías intracelulares",
+      "Disminuye la PA por su efecto depresor central (analgesia, anestesia sedación) por eso enmascara la vasoconstricción."
+    ],
+    "uso": [
+      "Tx preventivo previo cirugía ocular (↓ PIO - Presión intraocular perioperatoria)",
+      "Glaucoma"
+    ],
+    "efectos adversos": [
+      "Prurito ocular",
+      "Edema palpebral",
+      "Visión borrosa",
+      "Fotofobia",
+      "Hiperemia ocular"
+    ]
+  },
+  {
+    "nombre": ["Brimonidina"],
+    "grupo farmacologico": "Agonista selectivo A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO A2",
+      "Inhibe la adenil ciclasa e interactúa con otras vías intracelulares",
+      "Disminuye la PA por su efecto depresor central (analgesia, anestesia sedación) por eso enmascara la vasoconstricción.",
+      "Efecto mínimo cardiovascular y pulmonar."
+    ],
+    "uso": [
+      "Glaucoma"
+    ],
+    "efectos adversos": [
+      "Fotofobia",
+      "Cefalea",
+      "Xerostomía",
+      "Hiperemia ocular (Enrojecimiento)",
+      "Edema palpebral",
+      "Xerostomía",
+      "Somnolencia, Mareo, Visión borrosa."
+    ]
+  },
+  {
+    "nombre": ["Xilometazolina", "Oximetazolina"],
+    "grupo farmacologico": "Agonista A1 y A2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "Agonista directo alfa (A1 completo y A2 parcial)",
+      "Afinidad por los receptores Alfa 2A",
+      "Promueve la vasoconstricción en la mucosa nasal y conjuntiva"
+    ],
+    "uso": [
+      "Descongestionante nasal (Rinitis)"
+    ],
+    "efectos adversos": [
+      "Hipotensión en dosis elevadas",
+      "Congestión de rebote",
+      "Cefalea",
+      "Sequedad nasal",
+      "Estornudos",
+      "Irritación ocular"
+    ]
+  },
+  {
+    "nombre": ["Dobutamina"],
+    "grupo farmacologico": "Agonista B1 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "Agonista selectivo de B1",
+      "Activa la adenil ciclasa, aumentando la contractilidad miocárdica",
+      "Disminuye la PP, por efecto depresor central (analgesia, anestesia sedación) por eso enmascara la vasoconstricción.",
+      "Pocos efectos vasculares, aumenta frecuencia y GC."
+    ],
+    "uso": [
+      "Insuficiencia cardiaca congestiva",
+      "Prueba farmacológica de estrés cardiaco"
+    ],
+    "efectos adversos": [
+      "Contracciones ventriculares prematuras",
+      "Angina de pecho",
+      "Síncope",
+      "Cefalea y fiebre",
+      "Taquiarritmia",
+      "Hipertensión"
+    ]
+  },
+  {
+    "nombre": ["Albuterol (Salbutamol)"],
+    "grupo farmacologico": "Agonista directo B2 selectivo de acción corta - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA DIRECTO B2 (Acción corta)",
+      "Activa la adenil ciclasa",
+      "Broncodilatación rápida y eficaz"
+    ],
+    "uso": [
+      "Asma",
+      "EPOC",
+      "Broncoespasmo asmático"
+    ],
+    "efectos adversos": [
+      "Temblor",
+      "Taquicardia",
+      "Insomnio",
+      "Nausea"
+    ]
+  },
+  {
+    "nombre": ["Terbutalina", "pirbuterol"],
+    "grupo farmacologico": "Agonista directo B2 selectivo de acción corta - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA DIRECTO B2 (Acción corta)",
+      "Activa la adenil ciclasa",
+      "Dilatación del músculo liso bronquial, BRONCODILATACIÓN"
+    ],
+    "uso": [
+      "Tto de mantenimiento del asma",
+      "Broncoespasmo"
+    ],
+    "efectos adversos": [
+      "Nerviosismo",
+      "Hiperglicemia transitoria",
+      "Taquicardia",
+      "Temblores"
+    ]
+  },
+  {
+    "nombre": ["Salmeterol"],
+    "grupo farmacologico": "Agonista directo B2 de acción prolongada - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA DIRECTO B2 (Acción prolongada)",
+      "Dilata el músculo liso bronquial lento, potencia los corticosteroides"
+    ],
+    "uso": [
+      "asma",
+      "EPOC"
+    ],
+    "efectos adversos": [
+      "Temblor",
+      "Taquicardia",
+      "Cefalea",
+      "Hipertensión",
+      "Hipocalemia"
+    ]
+  },
+  {
+    "nombre": ["Formoterol"],
+    "grupo farmacologico": "Agonista directo B2 de acción prolongada - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA DIRECTO B2 (Acción prolongada)",
+      "Activa la adenil ciclasa",
+      "Dilatación del músculo liso bronquial, BRONCODILATACIÓN",
+      "Ventaja: acción inicial y lenta (dura mucho)"
+    ],
+    "uso": [
+      "Asma crónica",
+      "EPOC"
+    ],
+    "efectos adversos": [
+      "Disnea",
+      "Temblores",
+      "Bronquitis",
+      "Angina de pecho"
+    ]
+  },
+  {
+    "nombre": ["Vilanterol", "Olodaterol", "Indacaterol"],
+    "grupo farmacologico": "Agonista directo B2 de acción ultralarga - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA DIRECTO B2 (Acción ultraprolongada)",
+      "Activa la adenil ciclasa",
+      "Dilatación del músculo liso bronquial, BRONCODILATACIÓN"
+    ],
+    "uso": [
+      "EPOC"
+    ],
+    "efectos adversos": [
+      "Nerviosismo",
+      "Tos",
+      "Cefalea",
+      "Nauseas",
+      "Infección de las vías respiratorias altas"
+    ]
+  },
+  {
+    "nombre": ["Metaproterenol"],
+    "grupo farmacologico": "Agonista directo B2 >b1 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA DIRECTO B2",
+      "Activa la adenil ciclasa",
+      "Dilatación del músculo liso bronquial, BRONCODILATACIÓN"
+    ],
+    "uso": [
+      "Asma"
+    ],
+    "efectos adversos": [
+      "Nerviosismo",
+      "Tos",
+      "Cefalea",
+      "Taquicardia"
+    ]
+  },
+  {
+    "nombre": ["Ritodrina"],
+    "grupo farmacologico": "Agonista directo B2 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA DIRECTO B2",
+      "Activa la adenil ciclasa",
+      "Relajante uterino",
+      "Inhibe las contracciones uterinas."
+    ],
+    "uso": [
+      "Detener la progresión de parto pretérmino."
+    ],
+    "efectos adversos": [
+      "Palpitaciones",
+      "Nerviosismo",
+      "Temblores",
+      "Ansiedad"
+    ]
+  },
+  {
+    "nombre": ["Isoproterenol (Isoprenalina)"],
+    "grupo farmacologico": "Agonista B1 y B2 directos - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA NO SELECTIVO B",
+      "Efecto alfa no se encuentra",
+      "Cardiovascular: aumenta frecuencia y fuerza de contracción. Disminuye la resistencia periférica.",
+      "Vasodilatador: Cronotrópico e inotrópico +",
+      "Pulmonar: Broncodilatación (B2)",
+      "Aumentar glicemia y lipolisis - no significativo"
+    ],
+    "uso": [
+      "Paro cardiaco",
+      "Shock",
+      "Broncoespasmo durante la anestesia"
+    ],
+    "efectos adversos": [
+      "Taquicardia",
+      "Hipertensión",
+      "Angina",
+      "Mareo",
+      "Nerviosismo",
+      "Confusión"
+    ]
+  },
+  {
+    "nombre": ["Mirabegron"],
+    "grupo farmacologico": "Agonista B3 - Simpaticomimético de acción directa",
+    "mecanismo de accion": [
+      "AGONISTA SELECTIVO B3",
+      "Activa la adenil ciclasa",
+      "Reduce el tono de la vejiga"
+    ],
+    "uso": [
+      "Urgencia urinaria/Vejiga hiperreactiva"
+    ],
+    "efectos adversos": [
+      "Posible hipertensión",
+      "Estreñimiento",
+      "Mareo",
+      "ITU"
+    ]
+  },
+  {
+    "nombre": ["Fenoldopam"],
+    "grupo farmacologico": "Agonistas de la dopamina",
+    "mecanismo de accion": [
+      "AGONISTA D1",
+      "Activa la adenil ciclasa, aumenta el AMPc",
+      "Vasodilatación periférica",
+      "Relajación del músculo liso vascular"
+    ],
+    "uso": [
+      "Hipertensión severa"
+    ],
+    "efectos adversos": [
+      "Bradicardia",
+      "Palpitaciones",
+      "Angina de pecho",
+      "Oliguria",
+      "Calambres"
+    ]
+  },
+  {
+    "nombre": ["Bromocriptina"],
+    "grupo farmacologico": "Agonistas de la dopamina",
+    "mecanismo de accion": [
+      "AGONISTA D2",
+      "Inhibe la adenil ciclasa e interactúa con otras vías intracelulares",
+      "Imita las acciones de la dopamina en el SNC"
+    ],
+    "uso": [
+      "Enfermedad de Parkinson, prolactinemia"
+    ],
+    "efectos adversos": [
+      "Náusea",
+      "Dolor de cabeza",
+      "Hipotensión ortostática"
+    ]
+  },
+  {
+    "nombre": ["Efedrina"],
+    "grupo farmacologico": "Agonista de acción MIXTA Alfa y Beta ACCIÓN DIRECTA",
+    "mecanismo de accion": [
+      "AGONISTA ALFA Y BETA DE ACCIÓN MIXTA",
+      "Liberación de NE de terminales pre sinápticas y activan directamente los receptores post sinápticos",
+      "Estimula receptores A y B",
+      "Penetración del SNC: estado de alerta e insomnio.",
+      "Mejora capacidad atlética.",
+      "Aumenta PA sistólica y diastólica.",
+      "Broncodilatación lenta y menos potente.",
+      "Disminuye la resistencia periférica.",
+      "Hierba está prohibida por la FDA, uso restringido"
+    ],
+    "uso": [
+      "Asma",
+      "Descongestionante nasal",
+      "Elevar presión arterial",
+      "Potenciador sexual, incremento de energía"
+    ],
+    "efectos adversos": [
+      "Insomnio",
+      "Arritmias",
+      "HTA"
+    ]
+  },
+  {
+    "nombre": ["Anfetaminas", "Metanfetamina (acción central)", "Metilfenidato"],
+    "grupo farmacologico": "SIMPATICOMIMÉTICO DE ACCIÓN INDIRECTA SIMILAR A LA ANFETAMINA",
+    "mecanismo de accion": [
+      "AGONISTA ALFA Y BETA",
+      "Liberación de NE de terminales pre sinápticas",
+      "Estimula en SNC.",
+      "Aumenta la PA (Alfa)",
+      "Estimula el trabajo cardíaco (Beta)"
+    ],
+    "uso": [
+      "Niños hiperactivos",
+      "Narcolepsias",
+      "Control de apetito"
+    ],
+    "efectos adversos": [
+      "Enfermedades cardiovasculares"
+    ]
+  },
+  {
+    "nombre": ["Tiramina"],
+    "grupo farmacologico": "SIMPATICOMIMÉTICO DE ACCIÓN INDIRECTA SIMILAR A LA ANFETAMINA",
+    "mecanismo de accion": [
+      "AGONISTA ALFA Y BETA",
+      "Induce la liberación de catecolaminas a partir de las neuronas noradrenérgicas.",
+      "Se encuentra en comidas fermentadas",
+      "Producto del metabolismo de tirosina",
+      "Puede ocasionar crisis de HTA."
+    ],
+    "uso": [
+      "Regular PA"
+    ],
+    "efectos adversos": [
+      "Crisis HTA"
+    ]
+  },
+  {
+    "nombre": ["Modafinilo"],
+    "grupo farmacologico": "SIMPATICOMIMÉTICO DE ACCIÓN INDIRECTA SIMILAR A LA ANFETAMINA",
+    "mecanismo de accion": [
+      "Inhibe los transportadores de la NE y D",
+      "Aumenta las concentraciones sinápticas",
+      "Disminuye GABA."
+    ],
+    "uso": [
+      "Mejorar la vigilia en la narcolepsia"
+    ],
+    "efectos adversos": [
+      "Hipertensión",
+      "Aumento de FC"
+    ]
+  },
+  {
+    "nombre": ["Cocaína"],
+    "grupo farmacologico": "SIMPATICOMIMÉTICO DE ACCIÓN INDIRECTA - Inhibidores de la recaptura de catecolaminas",
+    "mecanismo de accion": [
+      "Anestésico local con una acción simpaticomimética periférica",
+      "Inhibe la recaptura en la sinapsis noradrenérgica.",
+      "Entra al SNC",
+      "Inhibe la captura de dopamina en el cerebro"
+    ],
+    "uso": [
+      "Anestesia local"
+    ],
+    "efectos adversos": [
+      "HTA",
+      "Contracciones ventriculares prematuras",
+      "Taquicardia"
+    ]
+  },
+  {
+    "nombre": ["Imipramina", "Duloxetina", "Milnacipran"],
+    "grupo farmacologico": "SIMPATICOMIMÉTICO DE ACCIÓN INDIRECTA - Inhibidores de la recaptura de catecolaminas",
+    "mecanismo de accion": [
+      "Antidepresivo tricíclico",
+      "Inhibir la recaptura de la norepinefrina y serotonina"
+    ],
+    "uso": [
+      "Depresión",
+      "-2: Dolor en fibromialgia"
+    ],
+    "efectos adversos": [
+      "Hipotensión ortostática"
+    ]
+  },
+  {
+    "nombre": ["Atomoxetina"],
+    "grupo farmacologico": "SIMPATICOMIMÉTICO DE ACCIÓN INDIRECTA - Inhibidores de la recaptura de catecolaminas",
+    "mecanismo de accion": [
+      "Inhibidor selectivo del transportador de recaptura de la norepinefrina",
+      "Potencia act de la NE"
+    ],
+    "uso": [
+      "TDAH"
+    ],
+    "efectos adversos": [
+      "Aumenta la PA",
+      "Taquicardia ortostática"
+    ]
+  },
+  {
+    "nombre": ["Reboxetina"],
+    "grupo farmacologico": "SIMPATICOMIMÉTICO DE ACCIÓN INDIRECTA - Inhibidores de la recaptura de catecolaminas",
+    "mecanismo de accion": [
+      "Inhibidor selectivo del transportador de recaptura de la norepinefrina",
+      "Potencia act de la NE"
+    ],
+    "uso": [
+      "Depresión mayor"
+    ],
+    "efectos adversos": [
+      "Riesgo cardiovascular"
+    ]
+  },
+  {
+    "nombre": ["Sibutramina"],
+    "grupo farmacologico": "SIMPATICOMIMÉTICO DE ACCIÓN INDIRECTA - Inhibidores de la recaptura de catecolaminas",
+    "mecanismo de accion": [
+      "Inhibidor de la recaptura de la serotonina y la norepinefrina"
+    ],
+    "uso": [
+      "Supresor del apetito OBSOLETO POR RIESGO CV"
+    ],
+    "efectos adversos": [
+      "Enfermedades cerebrovasculares"
+    ]
+  },
+  {
+    "nombre": ["Fenoxibenzamida"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS",
+    "mecanismo de accion": [
+      "Antagonista irreversible alfa (unión covalente con los receptores alfa)",
+      "Bloquea irreversiblemente α1 y α2 (larga duración más de 1 día), tiene un poco más de afinidad por A1",
+      "Activación indirecta del barorreflejo: aumenta el ritmo cardíaco.",
+      "Disminuye la presión arterial (BP)",
+      "Inhibe la recaptura de la norepinefrina liberada por los terminales nerviosos adrenérgicos presinápticos",
+      "Bloquea receptores de histamina (H1), acetilcolina y serotonina"
+    ],
+    "uso": [
+      "Feocromocitoma: Tto crónico, Tto preoperatorio (atenua la vasoconstricción por catecolaminas)",
+      "Estado alto de catecolaminas (por retirada de clonidina y sobredosis de fármacos simpaticomiméticos)"
+    ],
+    "efectos adversos": [
+      "Hipotensión ortostática",
+      "Taquicardia",
+      "Cardiopatía isquémica",
+      "Miosis",
+      "Congestión nasal",
+      "Inhibición de la eyaculación",
+      "Aumento del GC.",
+      "SNC: Fatiga, sedación, náusea"
+    ]
+  },
+  {
+    "nombre": ["Fentolamina"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS",
+    "mecanismo de accion": [
+      "Antagonista competitivo reversible alfa",
+      "Bloquea reversiblemente α1 y α2",
+      "Bloquea la vasoconstricción mediada por α",
+      "Disminuye la BP",
+      "Aumenta el HR (barorreflejo)",
+      "Inhibe receptores de serotonina.",
+      "Efecto agonista en receptores muscarínicos y H1, H2."
+    ],
+    "uso": [
+      "Feocromocitoma",
+      "Revertir anestesia local en sitios de tejidos blandos"
+    ],
+    "efectos adversos": [
+      "Hipotensión ortostática",
+      "Taquicardia y arritmias",
+      "Cardiopatía isquémica severa",
+      "Miosis",
+      "Congestión nasal"
+    ]
+  },
+  {
+    "nombre": ["Prazosina (3h)", "Doxazosina (22h)", "Terazosina (12h)"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS",
+    "mecanismo de accion": [
+      "Antagonista reversible selectivo alfa 1",
+      "Bloquea α1 pero no α2",
+      "Bloqueo reversible",
+      "Disminuyen la BP",
+      "No hay taquicardia por su efecto en alfa 2"
+    ],
+    "uso": [
+      "Hipertensión sistémica de leve a moderada",
+      "Hipertrofia prostática benigna"
+    ],
+    "efectos adversos": [
+      "Hipotensión ortostática",
+      "Mareo"
+    ]
+  },
+  {
+    "nombre": ["Indoramina"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS",
+    "mecanismo de accion": [
+      "Antagonista selectivo alfa 1",
+      "Disminución de la presión arterial"
+    ],
+    "uso": [
+      "Hipertensión",
+      "Hipertrofia prostática benigna"
+    ],
+    "efectos adversos": [
+      "Hipotensión ortostática"
+    ]
+  },
+  {
+    "nombre": ["Alfuzosina"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS",
+    "mecanismo de accion": [
+      "Derivado de quinazolina selectivo alfa 1"
+    ],
+    "uso": [
+      "Hipertrofia prostática benigna"
+    ],
+    "efectos adversos": [
+      "Aumenta el riesgo de prolongación de QT"
+    ]
+  },
+  {
+    "nombre": ["Tamsulosina"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS",
+    "mecanismo de accion": [
+      "Antagonista competitivo ligeramente selectivo para α1A",
+      "El bloqueo de α1A puede relajar más el músculo liso prostático que el músculo liso vascular",
+      "Menos efectos sobre la BP"
+    ],
+    "uso": [
+      "Hiperplasia prostática benigna"
+    ],
+    "efectos adversos": [
+      "Hipotensión ortostática (menos común)",
+      "En px con cirugía de cataratas: Sx de iris flácido intraoperatorio"
+    ]
+  },
+  {
+    "nombre": ["Silodosina"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS",
+    "mecanismo de accion": [
+      "Parecida a la Tamsulosina, bloqueo selectivo para α1A",
+      "Selectiva para relajar más el músculo liso prostático que el músculo liso vascular",
+      "Menos efectos sobre la BP"
+    ],
+    "uso": [
+      "Hiperplasia prostática benigna"
+    ],
+    "efectos adversos": [
+      "Inhibición de la eyaculación",
+      "Congestión nasal"
+    ]
+  },
+  {
+    "nombre": ["Yohimbina", "Tolazolina"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS",
+    "mecanismo de accion": [
+      "Antagonista reversible selectivo alfa 2",
+      "Bloquea α2",
+      "Aumento de la liberación de norepinefrina así que provoca una mayor actividad simpática central",
+      "Aumenta la presión arterial y el ritmo cardíaco"
+    ],
+    "uso": [
+      "Disfunción eréctil masculina",
+      "Hipotensión ortostática",
+      "Experimental: Diabetes tipo 2 y Depresión."
+    ],
+    "efectos adversos": [
+      "Ansiedad",
+      "Exceso del efecto presor si el transportador de norepinefrina está bloqueado"
+    ]
+  },
+  {
+    "nombre": ["Labetalol (véase sección del carvedilol más abajo)"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS Antagonista mixto",
+    "mecanismo de accion": [
+      "Antagonista mixto beta y Antagonista selectivo Alfa1",
+      "β > α1 bloqueo",
+      "Bloqueo reversible",
+      "Disminuye la presión arterial con un incremento limitado del ritmo cardíaco",
+      "Labetalol, es una mezcla racémica"
+    ],
+    "uso": [
+      "Hipertensión"
+    ],
+    "efectos adversos": [
+      "Taquicardia (pero menos que con otros antagonistas alfa)"
+    ]
+  },
+  {
+    "nombre": ["Urapidilo"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR ALFA ADRENÉRGICOS Antagonista mixto",
+    "mecanismo de accion": [
+      "Antagonista alfa 1, con acciones agonistas débiles en alfa 2 y 5-HT1A, Antagonista débil de receptor B1."
+    ],
+    "uso": [
+      "Hiperplasia prostática benigna",
+      "Hipertensión"
+    ],
+    "efectos adversos": [
+      "Vértigo",
+      "Cefalea"
+    ]
+  },
+  {
+    "nombre": ["Trazodona"],
+    "grupo farmacologico": "Antidepresivo",
+    "mecanismo de accion": [
+      "Bloquea receptores alfa 1"
+    ],
+    "uso": [
+      "Depresión"
+    ],
+    "efectos adversos": [
+      "Hipotensión ortostática"
+    ]
+  },
+  {
+    "nombre": ["Clorpromazina", "Haloperidol"],
+    "grupo farmacologico": "Fármaco neuroléptico",
+    "mecanismo de accion": [
+      "Antagonista de los receptores D y A"
+    ],
+    "uso": [
+      "Esquizofrenia"
+    ],
+    "efectos adversos": [
+      "Hipotensión"
+    ]
+  },
+  {
+    "nombre": ["Ergotamina", "Dihidroergotamina"],
+    "grupo farmacologico": "Derivados de Ergot",
+    "mecanismo de accion": [
+      "Bloqueo reversible de receptores alfa"
+    ],
+    "uso": [
+      "Migraña"
+    ],
+    "efectos adversos": [
+      "Taquicardia",
+      "Angina",
+      "Arritmia",
+      "Ergotismo (vasoconstricción generalizada de los vasos pequeños y grandes)",
+      "Entumecimiento de las piernas, posible gangrena"
+    ]
+  },
+  {
+    "nombre": ["Propranolol", "Nadolol", "Timolol"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR BETA ADRENÉRGICO",
+    "mecanismo de accion": [
+      "Antagonista beta no selectivo",
+      "Bloqueo β1 y β2",
+      "Disminuyen el ritmo cardíaco y la presión arterial",
+      "Reducen la renina",
+      "Reducen la presión intraocular (disminuye humor acuoso)",
+      "Sin acción agonista parcial"
+    ],
+    "uso": [
+      "Hipertensión",
+      "Angina de pecho",
+      "Arritmias",
+      "Migraña",
+      "Hipertensión",
+      "Miedo escénico",
+      "Glaucoma (timolol tópico)",
+      "SOLO PROPRANOLOL: Abstinencia alcohólica"
+    ],
+    "efectos adversos": [
+      "Bradicardia",
+      "Asma emperada (Broncoconstricción)",
+      "Sueños vívidos",
+      "Manos frías",
+      "Sedación leve"
+    ]
+  },
+  {
+    "nombre": ["Metoprolol", "Atenolol (migraña tmb)", "Betaxolol"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR BETA ADRENÉRGICO",
+    "mecanismo de accion": [
+      "Antagonista selectivo del receptor B1",
+      "Bloqueo β1 > β2",
+      "Disminuyen el ritmo cardíaco y la presión arterial",
+      "Reducen la renina",
+      "Pueden ser más seguros en el asma",
+      "Reducen la presión intraocular (disminuye humor acuoso)"
+    ],
+    "uso": [
+      "Angina de pecho",
+      "Hipertensión",
+      "Arritmias",
+      "Glaucoma (betaxolol tópico)"
+    ],
+    "efectos adversos": [
+      "Bradicardia",
+      "Fatiga",
+      "Sueños vívidos",
+      "Manos frías",
+      "Sedación leve"
+    ]
+  },
+  {
+    "nombre": ["Nebivolol (Más selectivo)"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR BETA ADRENÉRGICO",
+    "mecanismo de accion": [
+      "Antagonista selectivo del receptor B1",
+      "Bloqueo β1 > β2",
+      "Disminuyen el ritmo cardíaco y la presión arterial, GC.",
+      "Reducen la renina",
+      "Provoca vasodilatación y aumenta la sensibilidad a la insulina.",
+      "Pueden ser más seguros en el asma",
+      "Reducen la presión intraocular (disminuye humor acuoso)"
+    ],
+    "uso": [
+      "Angina de pecho",
+      "Hipertensión",
+      "Arritmias",
+      "Glaucoma (betaxolol tópico)"
+    ],
+    "efectos adversos": [
+      "Bradicardia",
+      "Fatiga",
+      "Sueños vívidos",
+      "Manos frías",
+      "Sedación leve"
+    ]
+  },
+  {
+    "nombre": ["Esmolol"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR BETA ADRENÉRGICO",
+    "mecanismo de accion": [
+      "Antagonista selectivo B1 de acción ultracorta",
+      "Bloqueo β1 > β2",
+      "Semivida más corta - 10 minutos"
+    ],
+    "uso": [
+      "Control rápido de la presión arterial y las arritmias supraventriculares.",
+      "Arritmias asociadas con tirotoxicosis",
+      "Hipertensión perioperatoria",
+      "Hipertensión postoperatoria"
+    ],
+    "efectos adversos": [
+      "Bradicardia",
+      "Hipotensión"
+    ]
+  },
+  {
+    "nombre": ["Butoxamina"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR BETA ADRENÉRGICO",
+    "mecanismo de accion": [
+      "Antagonista B2",
+      "Bloqueo β2 > β1",
+      "Incrementa la resistencia periférica"
+    ],
+    "uso": [
+      "Sin indicación clínica, es un fármaco de investigación"
+    ],
+    "efectos adversos": [
+      "Provoca asma"
+    ]
+  },
+  {
+    "nombre": [
+      "Pindolol",
+      "Acebutolol (B1)",
+      "Carteolol (Glaucoma tmb)",
+      "Bopindolol",
+      "Oxprenolol",
+      "Celiprolol (más B1, con capacidad modesta B2)",
+      "Penbutolol"
+    ],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR BETA ADRENÉRGICO",
+    "mecanismo de accion": [
+      "Antagonista de los receptores B, Agonistas parcial beta",
+      "β1, β2, con efecto simpaticomimético intrínseco (agonista parcial)",
+      "Disminuye la presión arterial",
+      "Disminuye moderadamente el ritmo cardíaco"
+    ],
+    "uso": [
+      "Hipertensión",
+      "Angina de pecho",
+      "Arritmias",
+      "Migraña",
+      "Puede evitar el empeoramiento de la bradicardia"
+    ],
+    "efectos adversos": [
+      "Fatiga",
+      "Sueños vívidos",
+      "Manos frías"
+    ]
+  },
+  {
+    "nombre": ["Carvedilol", "Medroxalol", "Bucindolol (véase 'Labetalol' arriba)"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR BETA ADRENÉRGICO - Antagonista mixto",
+    "mecanismo de accion": [
+      "Antagonista no selectivos beta y selectivos alfa 1",
+      "β > α1 bloqueo",
+      "Antagoniza las acciones de las catecolaminas"
+    ],
+    "uso": [
+      "Hipertensión",
+      "Insuficiencia cardíaca crónica"
+    ],
+    "efectos adversos": [
+      "Fatiga"
+    ]
+  },
+  {
+    "nombre": ["Sotalol"],
+    "grupo farmacologico": "ANTAGONISTAS DEL RECEPTOR BETA ADRENÉRGICO",
+    "mecanismo de accion": [
+      "Antagonista Beta no selectivo",
+      "Carece de acción anestésica local",
+      "Efectos antiarrítmicos de clase III que indican bloqueo de los canales de potasio"
+    ],
+    "uso": [
+      "Arritmias"
+    ],
+    "efectos adversos": [
+      "Disnea",
+      "Mareo",
+      "Fatiga",
+      "Bradicardia",
+      "Dolor de pecho"
+    ]
+  },
+  {
+    "nombre": ["Metirosina"],
+    "grupo farmacologico": "INHIBIDOR DE LA TIROSINA HIDROXILASA",
+    "mecanismo de accion": [
+      "Bloquea la tirosina hidroxilasa",
+      "Reduce la síntesis de dopamina, norepinefrina y epinefrina",
+      "Disminuye la presión arterial",
+      "Puede provocar efectos extrapiramidales (debido a la baja concentración de dopamina en el SNC)"
+    ],
+    "uso": [
+      "Feocromocitoma"
+    ],
+    "efectos adversos": [
+      "Síntomas extrapiramidales (Temblores, postura rígida, mov incontrolables de lengua, dedos, párpados)",
+      "Hipotensión ortostática",
+      "Cristaluria"
+    ]
+  }                   
+]
